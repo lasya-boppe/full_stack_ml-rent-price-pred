@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>View Houses by Bedrooms</title>
+    <style>
+        body {
+            background-color: #f0f0f0;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+
+        .container {
+            margin-top: 100px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        select {
+            font-size: 16px;
+            padding: 8px;
+            width: 200px;
+        }
+
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 16px;
+            text-align: center;
+            text-decoration: none;
+            background-color: #4CAF50;
+            color: white;
+            border-radius: 5px;
+            cursor: pointer;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>View Houses by Bedrooms</h1>
+
+        <!-- Form to select status -->
+        <form action="/view-spec/bybedrooms/display" method="GET">
+            <label for="beds">Select Number of Bedrooms:</label>
+            <select id="beds" name="beds" required>
+                <option value="1.0">1</option>
+                <option value="2.0">2</option>
+                <option value="3.0">3</option>
+                <option value="4.0">4</option>
+                <option value="5.0">5</option>
+                <option value="6.0">6</option>
+                <option value="7.0">7</option>
+                <option value="8.0">8</option>
+                <option value="9.0">9</option>
+                <option value="10.0">10</option>
+            </select>
+            <br>
+            <button class="button" type="submit">View By Status</button>
+        </form>
+    </div>
+</body>
+</html>

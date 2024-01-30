@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to the House API</title>
+    <style>
+        body {
+            background-color: #f0f0f0;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+
+        .container {
+            margin-top: 100px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 16px;
+            text-align: center;
+            text-decoration: none;
+            background-color: #4CAF50;
+            color: white;
+            border-radius: 5px;
+            cursor: pointer;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to the House API</h1>
+
+        <!-- Button to View All Houses -->
+        <a href="/api/houses">
+            <button class="button">View Houses</button>
+        </a>
+
+        <!-- Button to Add a House -->
+        <a href="/api/houses/add" onclick="postRequest()">
+            <button class="button">Add a House</button>
+        </a>
+
+        <!-- Link to View Houses by Specifications Page -->
+        <a href="view-spec">
+            <button class="button">View Houses by Specifications</button>
+        </a>
+
+        <script>
+            function postRequest() {
+                // You can add JavaScript logic for handling POST requests here
+                console.log('Add a House button clicked');
+            }
+        </script>
+    </div>
+</body>
+</html>
