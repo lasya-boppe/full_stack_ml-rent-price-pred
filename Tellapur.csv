@@ -1,0 +1,35 @@
+BHK,Type,Location,Price,Sqft,Status,Deposit,Availability,Bathrooms,Facing
+4,Villa,Tellapur,1.09,3223,Semi-Furnished,No Deposit,NA,4,NorthEast facing
+3,Apartment,Tellapur,"30,000",1500,Furnished,No Deposit,NA,3,East facing
+4,Villa,Tellapur,"50,000",3000,Semi-Furnished,No Deposit,NA,3,NA
+3,Apartment,Tellapur,"34,000",1378,Semi-Furnished,No Deposit,NA,3,East facing
+3,Apartment,Tellapur,"45,000",2020,Furnished,No Deposit,NA,3,NorthEast facing
+3,Villa,Tellapur,"69,000",2800,Semi-Furnished,No Deposit,NA,3,NorthWest facing
+2,Apartment,Tellapur,"20,000",1250,Semi-Furnished,No Deposit,NA,2,SouthEast facing
+4,Villa,Tellapur,"55,000",3700,Semi-Furnished,No Deposit,NA,4,NA
+5,Villa,Tellapur,"80,000",4000,Furnished,No Deposit,NA,5,NA
+3,Apartment,Tellapur,"45,000",2200,Semi-Furnished,No Deposit,NA,3,NorthEast facing
+3,Apartment,Tellapur,"35,000",1900,Unfurnished,"70,000",availability immediately,3,NA
+5,Villa,Tellapur,1,4000,Semi-Furnished,No Deposit,NA,5,NA
+3,Apartment,Tellapur,"40,000",2348,Furnished,No Deposit,NA,3,NA
+3,Apartment,Tellapur,"35,000",1792,Semi-Furnished,No Deposit,NA,3,NorthEast facing
+3,Apartment,Tellapur,"45,000",2020,Furnished,No Deposit,NA,3,NorthEast facing
+3,Apartment,Tellapur,"45,000",2200,Semi-Furnished,No Deposit,NA,3,NorthEast facing
+3,Apartment,Tellapur,"37,000",1600,Semi-Furnished,No Deposit,NA,3,NorthEast facing
+3,Apartment,Tellapur,"45,000",2020,Furnished,No Deposit,NA,3,NorthEast facing
+3,Apartment,Tellapur,"45,000",2200,Semi-Furnished,No Deposit,NA,3,NorthEast facing
+3,Apartment,Tellapur,"52,000",2000,Furnished,No Deposit,NA,3,East facing
+3,Apartment,Tellapur,"45,000",2020,Furnished,No Deposit,NA,3,NorthEast facing
+4,Apartment,Tellapur,"45,000",2200,Semi-Furnished,No Deposit,NA,4,East facing
+3,Apartment,Tellapur,"54,000",2000,Furnished,No Deposit,NA,3,East facing
+3,Apartment,Tellapur,"47,000",2020,Furnished,No Deposit,NA,3,NorthEast facing
+3,Apartment,Tellapur,"45,000",2200,Semi-Furnished,No Deposit,NA,3,NorthEast facing
+3,Apartment,Tellapur,"52,000",2000,Furnished,No Deposit,NA,3,East facing
+3,Apartment,Tellapur,"44,000",2020,Furnished,No Deposit,NA,3,NorthEast facing
+3,Apartment,Tellapur,"45,000",2200,Semi-Furnished,No Deposit,NA,3,West facing
+3,Apartment,Tellapur,"45,000",2020,Furnished,No Deposit,NA,3,NorthEast facing
+4,Apartment,Tellapur,"45,000",2200,Semi-Furnished,No Deposit,NA,4,East facing
+3,Apartment,Tellapur,"45,000",2970,Semi-Furnished,No Deposit,NA,3,East facing
+3,Apartment,Tellapur,"45,000",2200,Semi-Furnished,No Deposit,NA,3,West facing
+3,Apartment,Tellapur,"45,000",2200,Semi-Furnished,No Deposit,NA,3,NorthEast facing
+3,Apartment,Tellapur,"44,000",1900,Semi-Furnished,No Deposit,NA,3,East facing

@@ -1,0 +1,121 @@
+BHK,Type,Location,Price,Sqft,Status,Deposit,Availability,Bathrooms,Facing
+3,Apartment,KTR Colony Road Number 2,"18,600",1460,Semi-Furnished,No Deposit,NA,3,25th of 28floor
+2,Apartment,KTR Colony Hyderabad,"15,200",1400,Unfurnished,No Deposit,NA,2,3rd of 6floor
+3,Apartment,Friends Colony Hyderabad,"19,500",1000,Semi-Furnished,No Deposit,NA,2,5th of 8floor
+3,Apartment,Prayathi Nagar,"19,500",1500,Semi-Furnished,No Deposit,NA,2,4th of 7floor
+3,Apartment,Medinaguda,"27,800",1300,Semi-Furnished,No Deposit,NA,2,1st of 4floor
+2,Apartment,Shamshabad,"22,000",1400,Furnished,No Deposit,NA,2,NA
+2,Apartment,Kondapur,"28,000",1357,Furnished,No Deposit,NA,2,NA
+2,Apartment,Somajiguda,"12,000",860,Semi-Furnished,No Deposit,NA,2,North facing
+1,Apartment,Kondapur,"12,000",900,Semi-Furnished,No Deposit,NA,1,NorthEast facing
+1,Apartment,Madhapur,"10,000",850,Unfurnished,No Deposit,NA,1,NA
+1,Apartment,Madhapur,"13,000",800,Semi-Furnished,No Deposit,NA,1,NA
+1,Apartment,Madhapur,"13,000",850,Semi-Furnished,No Deposit,NA,1,NA
+1,Apartment,Madhapur,"13,000",850,Semi-Furnished,No Deposit,NA,1,NA
+2,Apartment,Aminpur,"12,000",1150,Semi-Furnished,No Deposit,NA,1,NA
+1,Apartment,Shamshabad,"13,750",700,Furnished,No Deposit,NA,1,NA
+2,Apartment,Uppal,"13,500",990,Semi-Furnished,No Deposit,NA,2,NA
+2,Apartment,Uppal,"13,000",1000,Semi-Furnished,No Deposit,NA,2,NA
+1,Apartment,Madhapur,"12,000",750,Semi-Furnished,No Deposit,NA,1,NA
+4,Apartment,Gachibowli,1.1,5000,Semi-Furnished,No Deposit,NA,4,East facing
+2,Apartment,Kondapur,"17,500",1160,Semi-Furnished,No Deposit,NA,2,NA
+3,Apartment,Miyapur,"24,000",1407,Semi-Furnished,No Deposit,NA,3,NA
+2,Apartment,Vijaya Nagar Colony,"16,000",850,Unfurnished,No Deposit,NA,2,NA
+3,Apartment,Manikonda,"16,000",1600,Semi-Furnished,No Deposit,NA,3,West facing
+1,Apartment,Madhapur,"13,500",800,Furnished,No Deposit,NA,1,NA
+3,Apartment,Nizampet,"13,000",1470,Semi-Furnished,No Deposit,NA,3,East facing
+4,Apartment,Madhapur,1.6,4070,Semi-Furnished,No Deposit,NA,4,NA
+2,Apartment,Tarnaka,"14,000",1100,Semi-Furnished,No Deposit,NA,2,NA
+1,Apartment,Kukatpally,"8,000",900,Furnished,No Deposit,NA,1,NA
+1,Apartment,Kondapur,"8,000",800,Semi-Furnished,No Deposit,NA,1,NA
+1,Apartment,Kondapur,"12,000",800,Semi-Furnished,No Deposit,NA,1,East facing
+2,Apartment,Kondapur,"15,000",800,Semi-Furnished,No Deposit,NA,2,East facing
+1,Apartment,Kondapur,"11,000",850,Semi-Furnished,No Deposit,NA,2,NA
+2,Apartment,Kondapur,"15,000",1200,Semi-Furnished,No Deposit,NA,2,East facing
+3,Apartment,Kondapur,"18,000",1350,Semi-Furnished,No Deposit,NA,2,East facing
+3,Apartment,Kondapur,"22,000",1300,Semi-Furnished,No Deposit,NA,2,East facing
+1,Apartment,Kondapur,"11,000",820,Semi-Furnished,No Deposit,NA,1,North facing
+2,Apartment,Kondapur,"16,000",1200,Semi-Furnished,No Deposit,NA,1,East facing
+,,Asif Nagar North,"6,600",400,Semi-Furnished,No Deposit,NA,1,NA
+3,Apartment,Kukatpally,"25,000",1800,Semi-Furnished,No Deposit,NA,3,NA
+2,Apartment,Nacharam,"25,000",1500,Unfurnished,No Deposit,NA,1,NA
+2,Apartment,Miyapur,"12,500",1000,Semi-Furnished,No Deposit,NA,2,NA
+2,Apartment,Borabanda,"10,000",800,Semi-Furnished,No Deposit,NA,2,NA
+3,Apartment,Gachibowli,"20,000",1900,Unfurnished,No Deposit,NA,3,NA
+3,Apartment,Miyapur,"6,500",1400,Furnished,No Deposit,NA,2,NA
+3,Apartment,Banjara Hills,"22,000",1300,Semi-Furnished,No Deposit,NA,2,NA
+2,Apartment,Nizampet,"14,000",1150,Furnished,No Deposit,NA,2,North facing
+1,Apartment,Ameerpet,"7,500",690,Semi-Furnished,"7,500",availability immediately,1,NA
+2,Apartment,Miyapur,"20,000",1094,Semi-Furnished,No Deposit,NA,2,East facing
+2,Apartment,Ameerpet,"14,000",1110,Semi-Furnished,"14,000",availability immediately,2,NA
+2,Apartment,Madhapur,"20,000",1150,Semi-Furnished,No Deposit,NA,2,East facing
+1,Apartment,Yousufguda,"7,000",670,Semi-Furnished,"7,000",availability immediately,1,NA
+2,Apartment,Rajendra Nagar,"17,000",950,Semi-Furnished,No Deposit,NA,2,NA
+3,Apartment,Sainikpuri,"25,000",2000,Furnished,No Deposit,NA,3,NA
+2,Apartment,Manikonda,"25,000",1350,Furnished,No Deposit,NA,2,NA
+3,Apartment,Kukatpally,"20,000",1530,Semi-Furnished,No Deposit,NA,2,NA
+3,Apartment,Pocharam,"10,000",1360,Furnished,No Deposit,NA,3,NA
+2,Apartment,Pragathi Nagar Kukatpally,"13,000",1245,Semi-Furnished,No Deposit,NA,2,NA
+1,Apartment,Gachibowli,"12,000",1500,Semi-Furnished,No Deposit,NA,1,NA
+1,Apartment,Kachiguda,"7,500",600,Unfurnished,No Deposit,NA,1,NA
+2,Apartment,Madhapur,"22,000",1200,Semi-Furnished,No Deposit,NA,2,NA
+2,Apartment,Nanakramguda,"27,000",1295,Semi-Furnished,No Deposit,NA,2,NA
+2,Apartment,Kukatpally,"11,000",900,Furnished,No Deposit,NA,2,NA
+3,Apartment,Padmarao Nagar,"27,000",1350,Furnished,No Deposit,NA,3,NA
+2,Apartment,Bollaram,"13,000",1150,Unfurnished,No Deposit,NA,2,NA
+3,Apartment,Kukatpally,"22,000",1490,Semi-Furnished,No Deposit,NA,2,East facing
+3,Apartment,Manikonda,"20,000",1650,Semi-Furnished,No Deposit,NA,3,NA
+3,Apartment,Gopanpally,"24,000",1570,Semi-Furnished,No Deposit,NA,2,West facing
+2,Apartment,Chandanagar,"22,000",1280,Semi-Furnished,No Deposit,NA,2,NA
+1,Apartment,Padmarao Nagar,"5,000",200,Unfurnished,No Deposit,NA,1,NA
+2,Apartment,Serilingampally,"19,000",1250,Semi-Furnished,No Deposit,NA,2,NA
+1,Apartment,Madhapur,"16,000",800,Semi-Furnished,No Deposit,NA,1,NA
+3,Apartment,Venkat Nagar Colony,"22,000",1475,Semi-Furnished,No Deposit,NA,2,North facing
+3,Apartment,Masab Tank,"35,000",2350,Furnished,No Deposit,NA,3,NA
+2,Apartment,Madhapur,"19,000",1100,Semi-Furnished,No Deposit,NA,2,NA
+1,Apartment,Madhapur,"8,000",750,Unfurnished,No Deposit,NA,1,NA
+1,Apartment,Madhapur,"16,500",850,Furnished,No Deposit,NA,1,NA
+1,Apartment,Madhapur,"17,000",850,Furnished,No Deposit,NA,1,NA
+1,Apartment,Madhapur,"8,000",750,Unfurnished,No Deposit,NA,1,NA
+2,Apartment,Borabanda,"9,000",500,Unfurnished,No Deposit,NA,2,NA
+2,Apartment,Gachibowli,"16,000",1260,Semi-Furnished,No Deposit,NA,2,NA
+3,Apartment,Banjara Hills,"49,000",1900,Semi-Furnished,No Deposit,NA,3,NorthEast facing
+3,Apartment,Jubilee Hills,"40,000",1500,Furnished,No Deposit,NA,2,East facing
+1,Apartment,Jubilee Hills,"11,000",500,Unfurnished,No Deposit,NA,1,NA
+2,Apartment,Jubilee Hills,"25,000",1030,Semi-Furnished,No Deposit,NA,2,NorthEast facing
+1,Apartment,Madhapur,"12,000",600,Unfurnished,No Deposit,NA,1,NA
+1,Apartment,Sanjeeva Reddy Nagar,"9,200",612,Unfurnished,No Deposit,NA,1,NA
+1,Apartment,Madhapur,"10,000",550,Unfurnished,No Deposit,NA,1,North facing
+1,Apartment,Sanath Nagar,"8,000",650,Unfurnished,No Deposit,NA,1,NA
+2,Apartment,Sanath Nagar,"16,000",1250,Semi-Furnished,No Deposit,NA,2,East facing
+2,Apartment,Sanath Nagar,"13,500",1250,Unfurnished,No Deposit,NA,2,NA
+3,Apartment,Jubilee Hills,"70,000",2500,Semi-Furnished,No Deposit,NA,3,NorthEast facing
+2,Apartment,Shanthi Nagar,"19,000",1000,Semi-Furnished,No Deposit,NA,2,NA
+2,Apartment,Nagaram,"28,000",1200,Semi-Furnished,No Deposit,NA,2,NA
+3,Apartment,Jubilee Hills,"45,000",3000,Semi-Furnished,No Deposit,NA,3,East facing
+3,Apartment,Jubilee Hills,"65,000",2600,Semi-Furnished,No Deposit,NA,3,West facing
+3,Apartment,Jubilee Hills,"65,000",2200,Semi-Furnished,No Deposit,NA,3,East facing
+3,Apartment,Jubilee Hills,"85,000",3000,Semi-Furnished,No Deposit,NA,3,NorthEast facing
+3,Apartment,Banjara Hills,"60,000",2100,Furnished,No Deposit,NA,3,East facing
+3,Apartment,Banjara Hills,"65,000",2000,Furnished,No Deposit,NA,3,NorthEast facing
+2,Apartment,Jubilee Hills,"20,000",1100,Semi-Furnished,No Deposit,NA,2,East facing
+2,Apartment,Jubilee Hills,"25,000",1000,Semi-Furnished,No Deposit,NA,2,North facing
+2,Apartment,Jubilee Hills,"25,000",1050,Semi-Furnished,No Deposit,NA,2,West facing
+3,Apartment,Banjara Hills,"65,000",2500,Semi-Furnished,No Deposit,NA,3,East facing
+3,Apartment,Banjara Hills,"52,000",2000,Semi-Furnished,No Deposit,NA,3,NorthEast facing
+2,Apartment,Madhapur,"27,000",1300,Semi-Furnished,No Deposit,NA,2,NA
+3,Apartment,LB Nagar,"25,000",1600,Semi-Furnished,No Deposit,NA,3,West facing
+1,Apartment,Gachibowli,"15,000",600,Semi-Furnished,No Deposit,NA,1,NA
+4,Apartment,Kothapet,"50,000",4000,Furnished,No Deposit,NA,3,West facing
+1,Apartment,Ameerpet,"7,500",599,Semi-Furnished,No Deposit,NA,1,East facing
+1,Apartment,Yousufguda,"7,600",642,Semi-Furnished,No Deposit,NA,1,East facing
+1,Apartment,Ameerpet,"9,500",650,Semi-Furnished,No Deposit,NA,1,East facing
+1,Apartment,Sanjeeva Reddy Nagar,"8,000",650,Semi-Furnished,No Deposit,NA,1,North facing
+2,Apartment,Yousufguda,"14,000",1087,Semi-Furnished,No Deposit,NA,2,East facing
+2,Apartment,Sanjeeva Reddy Nagar,"16,000",1150,Furnished,No Deposit,NA,2,North facing
+2,Apartment,Ameerpet,"16,000",1250,Unfurnished,No Deposit,NA,2,NA
+2,Apartment,Madhapur,"27,000",1100,Semi-Furnished,No Deposit,NA,2,NA
+2,Apartment,Jubilee Hills,"18,000",1000,Semi-Furnished,No Deposit,NA,2,NA
+3,Apartment,Jubilee Hills,"30,000",1600,Semi-Furnished,No Deposit,NA,2,NA
+2,Apartment,Banjara Hills,"25,000",1200,Semi-Furnished,No Deposit,NA,2,East facing
+3,Apartment,Nagaram,"40,000",1800,Semi-Furnished,No Deposit,NA,3,NA

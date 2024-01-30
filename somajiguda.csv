@@ -1,0 +1,14 @@
+BHK,Type,Location,Price,Sqft,Status,Deposit,Availability,Bathrooms,Facing
+3,Apartment,Somajiguda,"20,000",1500,Semi-Furnished,No Deposit,NA,2,NA
+3,Apartment,Somajiguda,"55,000",2000,Furnished,No Deposit,NA,3,SouthEast facing
+2,Apartment,Somajiguda,"23,000",1100,Semi-Furnished,No Deposit,NA,2,East facing
+3,Apartment,Somajiguda,"45,000",2600,Semi-Furnished,No Deposit,NA,3,West facing
+3,Apartment,Somajiguda,"37,000",1850,Semi-Furnished,No Deposit,NA,3,NorthWest facing
+2,Apartment,Somajiguda,"22,000",850,Semi-Furnished,No Deposit,NA,2,West facing
+4,Apartment,Somajiguda,1,4800,Semi-Furnished,No Deposit,NA,5,NA
+3,Apartment,Somajiguda,"38,000",2525,Semi-Furnished,No Deposit,NA,3,North facing
+3,Independent House,Somajiguda,"14,000",800,Semi-Furnished,No Deposit,NA,2,NA
+3,Apartment,Somajiguda,"45,000",2500,Semi-Furnished,No Deposit,NA,3,NA
+3,Apartment,Somajiguda,"12,500",1500,Semi-Furnished,No Deposit,NA,NA,NA
+2,Apartment,Somajiguda,"12,000",860,Semi-Furnished,No Deposit,NA,2,North facing
+4,Independent House,Somajiguda,1,2500,Semi-Furnished,No Deposit,NA,4,NA

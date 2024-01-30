@@ -1,0 +1,957 @@
+No,BHK,Type,Location,Price,Sqft,Status,Deposit,Availability,Bathrooms,Facing
+0,3,Apartment,KTR Colony Road Number 2,"18,600",1460,Semi-Furnished,No Deposit,,3,25th of 28floor
+1,2,Apartment,KTR Colony Hyderabad,"15,200",1400,Unfurnished,No Deposit,,2,3rd of 6floor
+2,3,Apartment,Friends Colony Hyderabad,"19,500",1000,Semi-Furnished,No Deposit,,2,5th of 8floor
+3,3,Apartment,Prayathi Nagar,"19,500",1500,Semi-Furnished,No Deposit,,2,4th of 7floor
+4,3,Apartment,Medinaguda,"27,800",1300,Semi-Furnished,No Deposit,,2,1st of 4floor
+5,2,Apartment,Shamshabad,"22,000",1400,Furnished,No Deposit,,2,
+6,2,Apartment,Kondapur,"28,000",1357,Furnished,No Deposit,,2,
+7,2,Apartment,Somajiguda,"12,000",860,Semi-Furnished,No Deposit,,2,North facing
+8,1,Apartment,Kondapur,"12,000",900,Semi-Furnished,No Deposit,,1,NorthEast facing
+9,1,Apartment,Madhapur,"10,000",850,Unfurnished,No Deposit,,1,
+10,1,Apartment,Madhapur,"13,000",800,Semi-Furnished,No Deposit,,1,
+11,1,Apartment,Madhapur,"13,000",850,Semi-Furnished,No Deposit,,1,
+12,1,Apartment,Madhapur,"13,000",850,Semi-Furnished,No Deposit,,1,
+13,2,Apartment,Aminpur,"12,000",1150,Semi-Furnished,No Deposit,,1,
+14,1,Apartment,Shamshabad,"13,750",700,Furnished,No Deposit,,1,
+15,2,Apartment,Uppal,"13,500",990,Semi-Furnished,No Deposit,,2,
+16,2,Apartment,Uppal,"13,000",1000,Semi-Furnished,No Deposit,,2,
+17,1,Apartment,Madhapur,"12,000",750,Semi-Furnished,No Deposit,,1,
+18,4,Apartment,Gachibowli,1.1,5000,Semi-Furnished,No Deposit,,4,East facing
+19,2,Apartment,Kondapur,"17,500",1160,Semi-Furnished,No Deposit,,2,
+20,3,Apartment,Miyapur,"24,000",1407,Semi-Furnished,No Deposit,,3,
+21,2,Apartment,Vijaya Nagar Colony,"16,000",850,Unfurnished,No Deposit,,2,
+22,3,Apartment,Manikonda,"16,000",1600,Semi-Furnished,No Deposit,,3,West facing
+23,1,Apartment,Madhapur,"13,500",800,Furnished,No Deposit,,1,
+24,3,Apartment,Nizampet,"13,000",1470,Semi-Furnished,No Deposit,,3,East facing
+25,4,Apartment,Madhapur,1.6,4070,Semi-Furnished,No Deposit,,4,
+26,2,Apartment,Tarnaka,"14,000",1100,Semi-Furnished,No Deposit,,2,
+27,1,Apartment,Kukatpally,"8,000",900,Furnished,No Deposit,,1,
+28,1,Apartment,Kondapur,"8,000",800,Semi-Furnished,No Deposit,,1,
+29,1,Apartment,Kondapur,"12,000",800,Semi-Furnished,No Deposit,,1,East facing
+30,2,Apartment,Kondapur,"15,000",800,Semi-Furnished,No Deposit,,2,East facing
+31,1,Apartment,Kondapur,"11,000",850,Semi-Furnished,No Deposit,,2,
+32,2,Apartment,Kondapur,"15,000",1200,Semi-Furnished,No Deposit,,2,East facing
+33,3,Apartment,Kondapur,"18,000",1350,Semi-Furnished,No Deposit,,2,East facing
+34,3,Apartment,Kondapur,"22,000",1300,Semi-Furnished,No Deposit,,2,East facing
+35,1,Apartment,Kondapur,"11,000",820,Semi-Furnished,No Deposit,,1,North facing
+36,2,Apartment,Kondapur,"16,000",1200,Semi-Furnished,No Deposit,,1,East facing
+37,,,Asif Nagar North,"6,600",400,Semi-Furnished,No Deposit,,1,
+38,3,Apartment,Kukatpally,"25,000",1800,Semi-Furnished,No Deposit,,3,
+39,2,Apartment,Nacharam,"25,000",1500,Unfurnished,No Deposit,,1,
+40,2,Apartment,Miyapur,"12,500",1000,Semi-Furnished,No Deposit,,2,
+41,2,Apartment,Borabanda,"10,000",800,Semi-Furnished,No Deposit,,2,
+42,3,Apartment,Gachibowli,"20,000",1900,Unfurnished,No Deposit,,3,
+43,3,Apartment,Miyapur,"6,500",1400,Furnished,No Deposit,,2,
+44,3,Apartment,Banjara Hills,"22,000",1300,Semi-Furnished,No Deposit,,2,
+45,2,Apartment,Nizampet,"14,000",1150,Furnished,No Deposit,,2,North facing
+46,1,Apartment,Ameerpet,"7,500",690,Semi-Furnished,"7,500",availability immediately,1,
+47,2,Apartment,Miyapur,"20,000",1094,Semi-Furnished,No Deposit,,2,East facing
+48,2,Apartment,Ameerpet,"14,000",1110,Semi-Furnished,"14,000",availability immediately,2,
+49,2,Apartment,Madhapur,"20,000",1150,Semi-Furnished,No Deposit,,2,East facing
+50,1,Apartment,Yousufguda,"7,000",670,Semi-Furnished,"7,000",availability immediately,1,
+51,2,Apartment,Rajendra Nagar,"17,000",950,Semi-Furnished,No Deposit,,2,
+52,3,Apartment,Sainikpuri,"25,000",2000,Furnished,No Deposit,,3,
+53,2,Apartment,Manikonda,"25,000",1350,Furnished,No Deposit,,2,
+54,3,Apartment,Kukatpally,"20,000",1530,Semi-Furnished,No Deposit,,2,
+55,3,Apartment,Pocharam,"10,000",1360,Furnished,No Deposit,,3,
+56,2,Apartment,Pragathi Nagar Kukatpally,"13,000",1245,Semi-Furnished,No Deposit,,2,
+57,1,Apartment,Gachibowli,"12,000",1500,Semi-Furnished,No Deposit,,1,
+58,1,Apartment,Kachiguda,"7,500",600,Unfurnished,No Deposit,,1,
+59,2,Apartment,Madhapur,"22,000",1200,Semi-Furnished,No Deposit,,2,
+60,2,Apartment,Nanakramguda,"27,000",1295,Semi-Furnished,No Deposit,,2,
+61,2,Apartment,Kukatpally,"11,000",900,Furnished,No Deposit,,2,
+62,3,Apartment,Padmarao Nagar,"27,000",1350,Furnished,No Deposit,,3,
+63,2,Apartment,Bollaram,"13,000",1150,Unfurnished,No Deposit,,2,
+64,3,Apartment,Kukatpally,"22,000",1490,Semi-Furnished,No Deposit,,2,East facing
+65,3,Apartment,Manikonda,"20,000",1650,Semi-Furnished,No Deposit,,3,
+66,3,Apartment,Gopanpally,"24,000",1570,Semi-Furnished,No Deposit,,2,West facing
+67,2,Apartment,Chandanagar,"22,000",1280,Semi-Furnished,No Deposit,,2,
+68,1,Apartment,Padmarao Nagar,"5,000",200,Unfurnished,No Deposit,,1,
+69,2,Apartment,Serilingampally,"19,000",1250,Semi-Furnished,No Deposit,,2,
+70,1,Apartment,Madhapur,"16,000",800,Semi-Furnished,No Deposit,,1,
+71,3,Apartment,Venkat Nagar Colony,"22,000",1475,Semi-Furnished,No Deposit,,2,North facing
+72,3,Apartment,Masab Tank,"35,000",2350,Furnished,No Deposit,,3,
+73,2,Apartment,Madhapur,"19,000",1100,Semi-Furnished,No Deposit,,2,
+74,1,Apartment,Madhapur,"8,000",750,Unfurnished,No Deposit,,1,
+75,1,Apartment,Madhapur,"16,500",850,Furnished,No Deposit,,1,
+76,1,Apartment,Madhapur,"17,000",850,Furnished,No Deposit,,1,
+77,1,Apartment,Madhapur,"8,000",750,Unfurnished,No Deposit,,1,
+78,2,Apartment,Borabanda,"9,000",500,Unfurnished,No Deposit,,2,
+79,2,Apartment,Gachibowli,"16,000",1260,Semi-Furnished,No Deposit,,2,
+80,3,Apartment,Banjara Hills,"49,000",1900,Semi-Furnished,No Deposit,,3,NorthEast facing
+81,3,Apartment,Jubilee Hills,"40,000",1500,Furnished,No Deposit,,2,East facing
+82,1,Apartment,Jubilee Hills,"11,000",500,Unfurnished,No Deposit,,1,
+83,2,Apartment,Jubilee Hills,"25,000",1030,Semi-Furnished,No Deposit,,2,NorthEast facing
+84,1,Apartment,Madhapur,"12,000",600,Unfurnished,No Deposit,,1,
+85,1,Apartment,Sanjeeva Reddy Nagar,"9,200",612,Unfurnished,No Deposit,,1,
+86,1,Apartment,Madhapur,"10,000",550,Unfurnished,No Deposit,,1,North facing
+87,1,Apartment,Sanath Nagar,"8,000",650,Unfurnished,No Deposit,,1,
+88,2,Apartment,Sanath Nagar,"16,000",1250,Semi-Furnished,No Deposit,,2,East facing
+89,2,Apartment,Sanath Nagar,"13,500",1250,Unfurnished,No Deposit,,2,
+90,3,Apartment,Jubilee Hills,"70,000",2500,Semi-Furnished,No Deposit,,3,NorthEast facing
+91,2,Apartment,Shanthi Nagar,"19,000",1000,Semi-Furnished,No Deposit,,2,
+92,2,Apartment,Nagaram,"28,000",1200,Semi-Furnished,No Deposit,,2,
+93,3,Apartment,Jubilee Hills,"45,000",3000,Semi-Furnished,No Deposit,,3,East facing
+94,3,Apartment,Jubilee Hills,"65,000",2600,Semi-Furnished,No Deposit,,3,West facing
+95,3,Apartment,Jubilee Hills,"65,000",2200,Semi-Furnished,No Deposit,,3,East facing
+96,3,Apartment,Jubilee Hills,"85,000",3000,Semi-Furnished,No Deposit,,3,NorthEast facing
+97,3,Apartment,Banjara Hills,"60,000",2100,Furnished,No Deposit,,3,East facing
+98,3,Apartment,Banjara Hills,"65,000",2000,Furnished,No Deposit,,3,NorthEast facing
+99,2,Apartment,Jubilee Hills,"20,000",1100,Semi-Furnished,No Deposit,,2,East facing
+100,2,Apartment,Jubilee Hills,"25,000",1000,Semi-Furnished,No Deposit,,2,North facing
+101,2,Apartment,Jubilee Hills,"25,000",1050,Semi-Furnished,No Deposit,,2,West facing
+102,3,Apartment,Banjara Hills,"65,000",2500,Semi-Furnished,No Deposit,,3,East facing
+103,3,Apartment,Banjara Hills,"52,000",2000,Semi-Furnished,No Deposit,,3,NorthEast facing
+104,2,Apartment,Madhapur,"27,000",1300,Semi-Furnished,No Deposit,,2,
+105,3,Apartment,LB Nagar,"25,000",1600,Semi-Furnished,No Deposit,,3,West facing
+106,1,Apartment,Gachibowli,"15,000",600,Semi-Furnished,No Deposit,,1,
+107,4,Apartment,Kothapet,"50,000",4000,Furnished,No Deposit,,3,West facing
+108,1,Apartment,Ameerpet,"7,500",599,Semi-Furnished,No Deposit,,1,East facing
+109,1,Apartment,Yousufguda,"7,600",642,Semi-Furnished,No Deposit,,1,East facing
+110,1,Apartment,Ameerpet,"9,500",650,Semi-Furnished,No Deposit,,1,East facing
+111,1,Apartment,Sanjeeva Reddy Nagar,"8,000",650,Semi-Furnished,No Deposit,,1,North facing
+112,2,Apartment,Yousufguda,"14,000",1087,Semi-Furnished,No Deposit,,2,East facing
+113,2,Apartment,Sanjeeva Reddy Nagar,"16,000",1150,Furnished,No Deposit,,2,North facing
+114,2,Apartment,Ameerpet,"16,000",1250,Unfurnished,No Deposit,,2,
+115,2,Apartment,Madhapur,"27,000",1100,Semi-Furnished,No Deposit,,2,
+116,2,Apartment,Jubilee Hills,"18,000",1000,Semi-Furnished,No Deposit,,2,
+117,3,Apartment,Jubilee Hills,"30,000",1600,Semi-Furnished,No Deposit,,2,
+118,2,Apartment,Banjara Hills,"25,000",1200,Semi-Furnished,No Deposit,,2,East facing
+119,3,Apartment,Nagaram,"40,000",1800,Semi-Furnished,No Deposit,,3,
+120,4,Apartment,Gachibowli,"54,000",2499,Semi-Furnished,No Deposit,,4,East facing
+121,4,Apartment,Gachibowli,1.5,3450,Furnished,No Deposit,,4,East facing
+122,2,Apartment,Gachibowli,"61,000",892,Furnished,No Deposit,,2,NorthEast facing
+123,3,Apartment,Gachibowli,"55,000",1500,Semi-Furnished,No Deposit,,2,NorthWest facing
+124,3,Apartment,Gachibowli,"65,000",1740,Furnished,No Deposit,,3,West facing
+125,4,Apartment,Gachibowli,1.1,5000,Semi-Furnished,No Deposit,,4,East facing
+126,1,Independent House,Gachibowli,"33,000",1500,Semi-Furnished,No Deposit,,2,
+127,1,Independent House,Gachibowli,"33,000",1500,Semi-Furnished,No Deposit,,2,
+128,1,Apartment,Gachibowli,"15,000",600,Semi-Furnished,No Deposit,,1,
+129,2,Apartment,Gachibowli,"56,000",2600,Furnished,No Deposit,,2,
+130,4,Apartment,Gachibowli,1.5,3600,Furnished,No Deposit,,4,East facing
+131,2,Apartment,Gachibowli,"70,000",1492,Furnished,No Deposit,,2,NorthEast facing
+132,2,Apartment,Gachibowli,"24,000",1050,Semi-Furnished,No Deposit,,2,East facing
+133,2,Apartment,Gachibowli,"33,000",1800,Furnished,No Deposit,,2,
+134,1,Independent House,Gachibowli,"33,000",1500,Semi-Furnished,No Deposit,,2,
+135,1,Independent House,Gachibowli,"33,000",1500,Semi-Furnished,No Deposit,,2,
+136,4,Apartment,Gachibowli,1,2713,Semi-Furnished,No Deposit,,4,
+137,2,Apartment,Gachibowli,"35,000",1230,Furnished,No Deposit,,2,
+138,3,Independent Floor,Gachibowli,"65,000",2000,Furnished,No Deposit,,3,
+139,2,Apartment,Gachibowli,"33,000",1200,Furnished,No Deposit,,2,
+140,3,Apartment,Gachibowli,"70,000",2500,Furnished,No Deposit,,3,East facing
+141,3,Apartment,Gachibowli,"48,000",1700,Semi-Furnished,No Deposit,,3,West facing
+142,3,Apartment,Gachibowli,"75,000",1900,Furnished,No Deposit,,3,NorthEast facing
+143,4,Villa,Gachibowli,1.6,5000,Semi-Furnished,No Deposit,,4,
+144,4,Apartment,Gachibowli,"53,999",2500,Semi-Furnished,No Deposit,,4,East facing
+145,3,Apartment,Gachibowli,"60,000",2400,Semi-Furnished,No Deposit,,3,West facing
+146,4,Villa,Gachibowli,1.7,4000,Semi-Furnished,No Deposit,,4,East facing
+147,1,Independent House,Gachibowli,"33,000",1500,Semi-Furnished,No Deposit,,2,
+148,1,Independent House,Gachibowli,"33,000",1500,Semi-Furnished,No Deposit,,2,
+149,2,Apartment,Gachibowli,"34,000",1200,Semi-Furnished,No Deposit,,2,
+150,2,Apartment,Gachibowli,"37,000",1800,Furnished,No Deposit,,2,
+151,3,Apartment,Gachibowli,"48,000",1800,Furnished,No Deposit,,3,
+152,5,Villa,Gachibowli,1.5,4800,Semi-Furnished,No Deposit,,6,West facing
+153,4,Apartment,Gachibowli,1.09,2108,Semi-Furnished,No Deposit,,4,NorthEast facing
+154,3,Apartment,Gachibowli,"38,000",1800,Semi-Furnished,No Deposit,,3,
+155,1,Apartment,Gachibowli,"22,000",600,Furnished,"22,000",availability immediately,1,
+156,2,Apartment,Gachibowli,"37,000",1250,Furnished,No Deposit,,2,South facing
+157,2,Apartment,Gachibowli,"32,000",1342,Semi-Furnished,"64,000",availability immediately,2,
+158,4,Villa,Gachibowli,1.6,4800,Semi-Furnished,No Deposit,,4,
+159,3,Apartment,Gachibowli,"48,000",1800,Furnished,No Deposit,,3,
+160,3,Independent Floor,Gachibowli,"45,000",1680,Furnished,"45,000",availability immediately,3,
+161,3,Apartment,Gachibowli,1.27,1600,Furnished,No Deposit,,3,
+162,3,Independent House,Gachibowli,"45,000",2000,Semi-Furnished,No Deposit,,3,
+163,,,Gachibowli,"27,800",600,Unfurnished,No Deposit,,1,
+164,3,Apartment,Gachibowli,"40,000",1920,Furnished,No Deposit,,4,
+165,3,Independent Floor,Gachibowli,"35,000",1800,Semi-Furnished,No Deposit,,3,
+166,4,Apartment,Gachibowli,"55,000",2550,Semi-Furnished,No Deposit,,4,
+167,4,Apartment,Gachibowli,"50,000",2000,Semi-Furnished,No Deposit,,3,
+168,3,Apartment,Gachibowli,"65,000",1989,Furnished,No Deposit,,3,
+169,3,Independent Floor,Gachibowli,"45,000",2450,Semi-Furnished,No Deposit,,3,East facing
+170,3,Apartment,Gachibowli,"55,000",1717,Furnished,No Deposit,,2,
+171,3,Apartment,Gachibowli,"48,000",2160,Semi-Furnished,No Deposit,,3,
+172,3,Apartment,Gachibowli,"30,000",1300,Semi-Furnished,No Deposit,,3,
+173,5,Independent House,Gachibowli,"50,000",2750,Semi-Furnished,No Deposit,,,
+174,3,Apartment,Gachibowli,"65,000",1953,Furnished,"65,000",availability immediately,3,
+175,3,Apartment,Gachibowli,"65,000",1955,Furnished,"65,000",availability immediately,3,
+176,3,Independent House,Gachibowli,"30,000",2000,Semi-Furnished,No Deposit,,2,
+177,3,Apartment,Gachibowli,"49,000",1915,Furnished,No Deposit,,3,
+178,2,Apartment,Gachibowli,"25,300",1283,Semi-Furnished,No Deposit,,2,
+179,2,Apartment,Gachibowli,"25,000",1100,Unfurnished,No Deposit,,2,
+180,,,Gachibowli,"13,500",800,Semi-Furnished,No Deposit,,1,
+181,,,Gachibowli,"27,800",600,Unfurnished,No Deposit,,1,
+182,2,Apartment,Gachibowli,"22,000",1400,Semi-Furnished,No Deposit,,2,NorthEast facing
+183,3,Apartment,Gachibowli,"20,000",1900,Unfurnished,No Deposit,,3,
+184,1,Apartment,Gachibowli,"20,000",600,Furnished,No Deposit,,1,North facing
+185,2,Apartment,Gachibowli,"20,000",1500,Unfurnished,"40,000",availability immediately,2,
+186,2,Apartment,Gachibowli,"18,000",1381,Semi-Furnished,No Deposit,,2,East facing
+187,2,Apartment,Gachibowli,"16,000",1260,Semi-Furnished,No Deposit,,2,
+188,2,Apartment,Gachibowli,"16,000",1235,Unfurnished,No Deposit,,2,
+189,1,Apartment,Gachibowli,"15,000",550,Furnished,No Deposit,,1,North facing
+190,,,Gachibowli,"13,000",250,Furnished,No Deposit,,1,NorthWest facing
+191,1,Apartment,Gachibowli,"12,121",1212,Furnished,No Deposit,,1,
+192,1,Apartment,Gachibowli,"12,000",1500,Semi-Furnished,No Deposit,,1,
+193,1,Apartment,Gachibowli,"10,000",500,Semi-Furnished,No Deposit,,1,
+194,2,Independent Floor,Gachibowli,"30,000",1080,Furnished,"60,000",availability immediately,2,
+195,,,Gachibowli,"8,000",550,Furnished,No Deposit,,1,NorthEast facing
+196,,,Gachibowli,"8,000",550,Semi-Furnished,No Deposit,,1,
+197,3,Apartment,Gachibowli,"50,000",2000,Semi-Furnished,No Deposit,,3,NorthEast facing
+198,,,Gachibowli,"6,500",200,Semi-Furnished,No Deposit,,1,
+199,3,Apartment,Gachibowli,"59,000",1800,Furnished,No Deposit,,3,NorthEast facing
+200,3,Apartment,Gachibowli,"22,000",2350,Furnished,No Deposit,,3,
+201,2,Apartment,Gachibowli,"54,000",1492,Semi-Furnished,No Deposit,,2,NorthEast facing
+202,2,Apartment,Gachibowli,"44,000",1034,Furnished,No Deposit,,2,NorthEast facing
+203,3,Apartment,Gachibowli,"65,000",1989,Furnished,No Deposit,,1,
+204,2,Apartment,Gachibowli,"32,000",1283,Unfurnished,No Deposit,,2,NorthEast facing
+205,2,Apartment,Gachibowli,"45,000",1283,Semi-Furnished,No Deposit,,2,NorthEast facing
+206,3,Apartment,Gachibowli,"70,000",1742,Semi-Furnished,No Deposit,,3,NorthEast facing
+207,3,Apartment,Gachibowli,"55,000",1745,Semi-Furnished,No Deposit,,3,NorthEast facing
+208,2,Apartment,Gachibowli,"65,000",1492,Furnished,No Deposit,,2,NorthEast facing
+209,2,Apartment,Gachibowli,"40,000",1283,Semi-Furnished,No Deposit,,2,NorthEast facing
+210,2,Apartment,Gachibowli,"32,000",1283,Unfurnished,No Deposit,,2,NorthEast facing
+211,2,Apartment,Gachibowli,"45,000",1283,Semi-Furnished,No Deposit,,2,NorthEast facing
+212,3,Apartment,Gachibowli,"70,001",1742,Semi-Furnished,No Deposit,,3,NorthEast facing
+213,3,Apartment,Gachibowli,"55,000",1745,Semi-Furnished,No Deposit,,3,NorthEast facing
+214,2,Apartment,Gachibowli,"52,000",892,Semi-Furnished,No Deposit,,2,NorthEast facing
+215,3,Apartment,Gachibowli,"45,000",1100,Semi-Furnished,No Deposit,,2,NorthEast facing
+216,4,Apartment,Gachibowli,"60,000",1993,Semi-Furnished,No Deposit,,3,NorthEast facing
+217,3,Apartment,Gachibowli,"50,000",1470,Semi-Furnished,No Deposit,,2,NorthEast facing
+218,3,Apartment,Gachibowli,"45,000",1410,Semi-Furnished,No Deposit,,2,NorthEast facing
+219,2,Apartment,Gachibowli,"32,000",1283,Unfurnished,No Deposit,,2,NorthEast facing
+220,2,Apartment,Gachibowli,"45,000",892,Semi-Furnished,No Deposit,,2,NorthEast facing
+221,3,Apartment,Gachibowli,"70,000",1742,Semi-Furnished,No Deposit,,3,NorthEast facing
+222,3,Apartment,Gachibowli,"50,000",2000,Semi-Furnished,No Deposit,,3,NorthEast facing
+223,4,Apartment,Gachibowli,"60,000",1993,Semi-Furnished,No Deposit,,3,NorthEast facing
+224,3,Apartment,Gachibowli,"50,000",1470,Semi-Furnished,No Deposit,,2,NorthEast facing
+225,3,Apartment,Gachibowli,"35,000",1500,Semi-Furnished,No Deposit,,3,NorthEast facing
+226,2,Apartment,Gachibowli,"32,000",1283,Unfurnished,No Deposit,,2,NorthEast facing
+227,3,Apartment,Gachibowli,"45,000",1410,Semi-Furnished,No Deposit,,2,NorthEast facing
+228,2,Apartment,Gachibowli,"45,000",892,Semi-Furnished,No Deposit,,2,East facing
+229,3,Apartment,Gachibowli,"70,000",1742,Semi-Furnished,No Deposit,,3,NorthEast facing
+230,3,Apartment,Gachibowli,"79,000",1800,Furnished,No Deposit,,3,NorthEast facing
+231,4,Apartment,Gachibowli,"59,000",1993,Unfurnished,No Deposit,,3,NorthEast facing
+232,2,Apartment,Gachibowli,"40,000",1283,Semi-Furnished,No Deposit,,2,NorthEast facing
+233,3,Apartment,Gachibowli,"50,000",2000,Semi-Furnished,No Deposit,,3,NorthEast facing
+234,3,Apartment,Gachibowli,"50,000",1470,Semi-Furnished,No Deposit,,2,NorthEast facing
+235,2,Apartment,Gachibowli,"45,000",892,Semi-Furnished,No Deposit,,2,NorthEast facing
+236,3,Apartment,Gachibowli,"70,000",1742,Semi-Furnished,No Deposit,,3,NorthEast facing
+237,2,Apartment,Gachibowli,"32,000",1283,Unfurnished,No Deposit,,2,NorthEast facing
+238,3,Apartment,Gachibowli,"45,000",1410,Semi-Furnished,No Deposit,,2,NorthEast facing
+239,3,Apartment,Gachibowli,"69,000",1366,Semi-Furnished,No Deposit,,3,NorthEast facing
+240,2,Apartment,Gachibowli,"44,000",892,Semi-Furnished,No Deposit,,2,NorthEast facing
+241,2,Apartment,Gachibowli,"44,000",892,Furnished,No Deposit,,2,NorthEast facing
+242,2,Apartment,Gachibowli,"46,000",892,Semi-Furnished,No Deposit,,2,NorthEast facing
+243,3,Apartment,Gachibowli,"65,000",1742,Semi-Furnished,No Deposit,,3,NorthEast facing
+244,3,Apartment,Gachibowli,"53,000",1742,Furnished,No Deposit,,3,NorthEast facing
+245,3,Apartment,Gachibowli,"35,000",1500,Semi-Furnished,No Deposit,,3,NorthEast facing
+246,4,Apartment,Gachibowli,"60,000",1993,Semi-Furnished,No Deposit,,3,East facing
+247,3,Apartment,Gachibowli,"49,000",1500,Semi-Furnished,No Deposit,,2,West facing
+248,3,Apartment,Gachibowli,"60,000",2200,Semi-Furnished,No Deposit,,3,NorthEast facing
+249,3,Apartment,Gachibowli,"42,000",1300,Furnished,No Deposit,,2,West facing
+250,3,Apartment,Gachibowli,"45,001",1100,Semi-Furnished,No Deposit,,2,NorthEast facing
+251,2,Apartment,Gachibowli,"70,000",1492,Furnished,No Deposit,,2,NorthEast facing
+252,2,Apartment,Gachibowli,"36,000",1200,Furnished,No Deposit,,2,
+253,2,Apartment,Gachibowli,"30,000",1230,Semi-Furnished,No Deposit,,2,
+254,3,Apartment,Gachibowli,"40,500",1800,Furnished,No Deposit,,3,
+255,2,Apartment,Gachibowli,"37,000",1800,Furnished,No Deposit,,2,
+256,2,Apartment,Gachibowli,"30,000",1600,Unfurnished,No Deposit,,2,
+257,3,Apartment,Gachibowli,"44,000",1800,Furnished,No Deposit,,3,
+258,3,Apartment,Gachibowli,"44,000",1800,Furnished,No Deposit,,3,
+259,2,Apartment,Gachibowli,"27,800",1200,Semi-Furnished,No Deposit,,2,
+260,2,Apartment,Gachibowli,"50,000",1410,Semi-Furnished,1 L,availability immediately,2,
+261,4,Apartment,Gachibowli,"95,000",2708,Furnished,3 L,availability immediately,4,
+262,2,Apartment,Gachibowli,"45,000",1115,Furnished,"90,000",availability immediately,2,
+263,3,Apartment,Gachibowli,"60,000",1742,Semi-Furnished,1.2 L,availability immediately,3,
+264,3,Apartment,Gachibowli,"65,000",2160,Semi-Furnished,1.3 L,availability immediately,3,
+265,3,Apartment,Gachibowli,"90,000",2780,Semi-Furnished,2.7 L,availability immediately,3,
+266,2,Apartment,Gachibowli,"50,000",1410,Semi-Furnished,1 L,availability immediately,2,
+267,3,Apartment,Gachibowli,"70,000",1742,Furnished,2 L,availability immediately,3,
+268,2,Apartment,Gachibowli,"45,000",1283,Semi-Furnished,"90,000",availability immediately,2,
+269,2,Apartment,Gachibowli,"45,000",1283,Semi-Furnished,"90,000",availability immediately,2,
+270,2,Independent Floor,Gachibowli,"26,000",1140,Furnished,"52,000",availability immediately,2,
+271,2,Independent Floor,Gachibowli,"26,000",1054,Furnished,"52,000",availability immediately,2,
+272,4,Villa,Gachibowli,2.5,5000,Furnished,No Deposit,,4,
+273,5,Villa,Gachibowli,1.5,5000,Semi-Furnished,No Deposit,,6,
+274,4,Apartment,Gachibowli,1.4,4000,Semi-Furnished,No Deposit,,5,East facing
+275,4,Villa,Gachibowli,3,7000,Semi-Furnished,No Deposit,,5,
+276,3,Apartment,Gachibowli,"65,000",2000,Semi-Furnished,No Deposit,,3,
+277,4,Independent Floor,Gachibowli,1.4,4012,Semi-Furnished,No Deposit,,6,
+278,4,Villa,Gachibowli,1.5,4500,Semi-Furnished,No Deposit,,6,East facing
+279,4,Villa,Gachibowli,1.75,4800,Semi-Furnished,No Deposit,,6,
+280,4,Villa,Gachibowli,1.65,4800,Semi-Furnished,No Deposit,,6,
+281,2,Apartment,Gachibowli,"40,000",1283,Semi-Furnished,"80,000",availability immediately,2,
+282,3,Apartment,Gachibowli,"55,000",2160,Semi-Furnished,1.1 L,availability immediately,3,
+283,2,Independent Floor,Gachibowli,"30,000",1100,Furnished,"60,000",availability immediately,2,
+284,2,Apartment,Gachibowli,"36,000",1275,Semi-Furnished,"72,000",availability immediately,2,
+285,3,Apartment,Gachibowli,"52,000",2160,Semi-Furnished,1.04 L,availability immediately,3,
+286,3,Apartment,Gachibowli,"65,000",2160,Semi-Furnished,1.3 L,availability immediately,3,
+287,2,Independent Floor,Gachibowli,"30,000",1100,Furnished,"60,000",availability immediately,2,
+288,2,Apartment,Gachibowli,"37,000",1275,Semi-Furnished,"74,000",availability immediately,2,
+289,3,Apartment,Gachibowli,"50,000",2160,Semi-Furnished,1 L,availability immediately,3,
+290,3,Apartment,Gachibowli,"60,000",1740,Furnished,1.8 L,availability immediately,3,
+291,4,Apartment,Gachibowli,"85,000",2713,Semi-Furnished,2.55 L,availability immediately,4,
+292,3,Apartment,Gachibowli,"46,000",1742,Semi-Furnished,"92,000",,3,9th of 35floor
+293,3,Apartment,Gachibowli,"85,000",2780,Semi-Furnished,1.7 L,availability immediately,3,
+294,3,Apartment,Gachibowli,"80,000",2780,Semi-Furnished,2.4 L,availability immediately,3,
+295,3,Apartment,Gachibowli,"55,000",1835,Semi-Furnished,1.1 L,availability immediately,3,
+296,3,Apartment,Gachibowli,"23,000",2350,Semi-Furnished,No Deposit,,3,
+297,1,Apartment,Gachibowli,"20,000",550,Furnished,No Deposit,,1,
+298,2,Independent House,Gachibowli,"32,000",1400,Furnished,No Deposit,,2,
+299,1,Apartment,Gachibowli,"11,500",500,Semi-Furnished,No Deposit,,1,East facing
+300,1,Apartment,Gachibowli,"10,000",500,Semi-Furnished,No Deposit,,1,
+301,1,Independent Floor,Gachibowli,"15,000",504,Semi-Furnished,"15,000",availability immediately,1,
+302,1,Independent Floor,Gachibowli,"17,000",502,Furnished,"17,000",availability immediately,1,
+303,2,Independent Floor,Gachibowli,"30,000",1024,Furnished,"60,000",availability immediately,2,
+304,1,Apartment,Gachibowli,"10,000",506,Semi-Furnished,"10,000",availability immediately,1,
+305,2,Apartment,Gachibowli,"15,000",1000,Semi-Furnished,"15,000",availability immediately,2,
+306,2,Apartment,Jubilee Hills,"37,000",1200,Unfurnished,No Deposit,,2,NorthEast facing
+307,2,Apartment,Jubilee Hills,"25,000",1000,Semi-Furnished,No Deposit,,2,
+308,4,Independent House,Jubilee Hills,6,7500,Semi-Furnished,No Deposit,,5,East facing
+309,2,Apartment,Jubilee Hills,"18,000",1000,Semi-Furnished,No Deposit,,2,
+310,6,Independent Floor,Jubilee Hills,2.2,7000,Semi-Furnished,No Deposit,,8,East facing
+311,1,Apartment,Jubilee Hills,"11,000",500,Unfurnished,No Deposit,,1,
+312,3,Apartment,Jubilee Hills,"70,000",2500,Semi-Furnished,No Deposit,,3,NorthEast facing
+313,2,Independent Floor,Jubilee Hills,"35,000",1250,Furnished,No Deposit,,2,East facing
+314,3,Apartment,Jubilee Hills,"49,000",1950,Unfurnished,No Deposit,,3,NorthEast facing
+315,2,Apartment,Jubilee Hills,"25,000",1030,Semi-Furnished,No Deposit,,2,NorthEast facing
+316,3,Apartment,Jubilee Hills,1.15,3500,Semi-Furnished,No Deposit,,4,East facing
+317,4,Independent House,Jubilee Hills,3.5,5800,Furnished,No Deposit,,4,West facing
+318,6,Independent House,Jubilee Hills,5,9000,Semi-Furnished,No Deposit,,6,
+319,4,Villa,Jubilee Hills,1.7,4000,Furnished,No Deposit,,4,
+320,3,Apartment,Jubilee Hills,"30,000",1600,Semi-Furnished,No Deposit,,2,
+321,2,Apartment,Jubilee Hills,"25,000",1250,Semi-Furnished,No Deposit,,2,West facing
+322,2,Apartment,Jubilee Hills,"39,000",1100,Unfurnished,No Deposit,,2,NorthEast facing
+323,1,Apartment,Jubilee Hills,"12,000",500,Semi-Furnished,No Deposit,,1,
+324,5,Independent House,Jubilee Hills,4.5,6000,Furnished,No Deposit,,6,North facing
+325,3,Apartment,Jubilee Hills,"90,000",3125,Semi-Furnished,No Deposit,,3,East facing
+326,5,Villa,Jubilee Hills,9,9000,Furnished,No Deposit,,5,
+327,5,Villa,Jubilee Hills,1,5000,Semi-Furnished,No Deposit,,5,
+328,3,Independent Floor,Jubilee Hills,1,3000,Semi-Furnished,No Deposit,,3,North facing
+329,3,Apartment,Jubilee Hills,"54,000",1950,Unfurnished,No Deposit,,3,NorthEast facing
+330,3,Apartment,Jubilee Hills,"40,000",1500,Furnished,No Deposit,,2,East facing
+331,3,Apartment,Jubilee Hills,1.2,4000,Furnished,No Deposit,,3,NorthEast facing
+332,5,Independent House,Jubilee Hills,6.5,4500,Unfurnished,No Deposit,,5,
+333,6,Independent House,Jubilee Hills,10,9900,Furnished,No Deposit,,5,
+334,5,Independent House,Jubilee Hills,2.4,4500,Semi-Furnished,9.6 L,availability immediately,9,
+335,3,Apartment,Jubilee Hills,"45,000",2000,Semi-Furnished,No Deposit,,3,West facing
+336,3,Apartment,Jubilee Hills,"45,000",3000,Semi-Furnished,No Deposit,,3,East facing
+337,3,Apartment,Jubilee Hills,"55,000",2200,Semi-Furnished,No Deposit,,2,NorthWest facing
+338,4,Independent House,Jubilee Hills,3,6000,Semi-Furnished,No Deposit,,4,South facing
+339,3,Apartment,Jubilee Hills,"60,000",2550,Furnished,No Deposit,,4,
+340,2,Independent Floor,Jubilee Hills,"70,000",1750,Semi-Furnished,2.1 L,availability immediately,2,
+341,3,Villa,Jubilee Hills,"25,000",5000,Semi-Furnished,No Deposit,,2,
+342,3,Independent House,Jubilee Hills,2.5,3800,Unfurnished,15 L,availability immediately,1,
+343,1,Independent Floor,Jubilee Hills,"8,000",391,Unfurnished,No Deposit,,1,
+344,1,Apartment,Jubilee Hills,"7,200",1000,Unfurnished,No Deposit,,1,
+345,3,Apartment,Jubilee Hills,"60,000",2400,Semi-Furnished,No Deposit,,3,North facing
+346,3,Apartment,Jubilee Hills,"65,000",2600,Semi-Furnished,No Deposit,,3,West facing
+347,3,Apartment,Jubilee Hills,"70,000",2000,Semi-Furnished,No Deposit,,3,NorthEast facing
+348,7,Independent House,Jubilee Hills,2.8,9000,Unfurnished,No Deposit,,7,
+349,3,Apartment,Jubilee Hills,"50,000",2260,Semi-Furnished,No Deposit,,3,
+350,3,Apartment,Jubilee Hills,"65,000",2200,Semi-Furnished,No Deposit,,3,East facing
+351,3,Apartment,Jubilee Hills,1.3,3100,Semi-Furnished,No Deposit,,3,East facing
+352,3,Apartment,Jubilee Hills,"45,000",1800,Semi-Furnished,No Deposit,,3,NorthEast facing
+353,4,Independent Floor,Jubilee Hills,3,5000,Semi-Furnished,No Deposit,,4,North facing
+354,3,Apartment,Jubilee Hills,"85,000",3000,Semi-Furnished,No Deposit,,3,NorthEast facing
+355,2,Apartment,Jubilee Hills,"36,000",1500,Furnished,No Deposit,,2,NorthEast facing
+356,3,Apartment,Jubilee Hills,"60,000",3000,Semi-Furnished,No Deposit,,3,East facing
+357,4,Independent House,Jubilee Hills,2.5,5000,Semi-Furnished,No Deposit,,4,
+358,2,Apartment,Jubilee Hills,"20,000",1100,Semi-Furnished,No Deposit,,2,East facing
+359,1,Apartment,Jubilee Hills,"11,000",650,Semi-Furnished,No Deposit,,1,East facing
+360,2,Apartment,Jubilee Hills,"25,000",1200,Semi-Furnished,No Deposit,,2,North facing
+361,4,Apartment,Jubilee Hills,2.5,4000,Semi-Furnished,No Deposit,,4,North facing
+362,2,Apartment,Jubilee Hills,"25,000",1000,Semi-Furnished,No Deposit,,2,North facing
+363,2,Apartment,Jubilee Hills,"25,000",1200,Semi-Furnished,No Deposit,,2,North facing
+364,3,Apartment,Jubilee Hills,"60,000",2500,Semi-Furnished,No Deposit,,3,
+365,3,Apartment,Jubilee Hills,"80,000",3000,Semi-Furnished,No Deposit,,4,
+366,2,Apartment,Jubilee Hills,"25,000",1050,Semi-Furnished,No Deposit,,2,West facing
+367,2,Apartment,Jubilee Hills,"25,000",1200,Semi-Furnished,No Deposit,,2,
+368,3,Apartment,Jubilee Hills,1,3000,Semi-Furnished,No Deposit,,3,NorthEast facing
+369,2,Apartment,Jubilee Hills,"25,000",1010,Semi-Furnished,No Deposit,,2,North facing
+370,3,Apartment,Jubilee Hills,"45,000",2500,Furnished,No Deposit,,3,NorthEast facing
+371,3,Apartment,Jubilee Hills,"40,000",1800,Semi-Furnished,No Deposit,,3,NorthEast facing
+372,3,Apartment,Jubilee Hills,"45,000",2300,Semi-Furnished,No Deposit,,3,NorthEast facing
+373,2,Apartment,Jubilee Hills,"25,000",1200,Semi-Furnished,No Deposit,,2,
+374,2,Apartment,Jubilee Hills,"25,000",1100,Semi-Furnished,No Deposit,,2,NorthEast facing
+375,3,Apartment,Jubilee Hills,"60,000",2500,Furnished,No Deposit,,3,West facing
+376,3,Apartment,Jubilee Hills,"37,000",1800,Semi-Furnished,No Deposit,,3,NorthEast facing
+377,1,Apartment,Jubilee Hills,"11,500",550,Unfurnished,No Deposit,,1,
+378,3,Apartment,Jubilee Hills,"95,000",2900,Semi-Furnished,No Deposit,,3,NorthEast facing
+379,2,Apartment,Jubilee Hills,"23,000",1070,Semi-Furnished,No Deposit,,2,NorthEast facing
+380,3,Apartment,Jubilee Hills,"65,000",2600,Semi-Furnished,No Deposit,,3,West facing
+381,3,Apartment,Jubilee Hills,"30,000",1700,Semi-Furnished,No Deposit,,2,NorthWest facing
+382,1,Apartment,Jubilee Hills,"12,000",600,Unfurnished,No Deposit,,1,East facing
+383,1,Apartment,Jubilee Hills,"10,500",550,Unfurnished,No Deposit,,1,South facing
+384,2,Apartment,Jubilee Hills,"22,500",1100,Semi-Furnished,No Deposit,,2,NorthEast facing
+385,2,Apartment,Jubilee Hills,"25,000",1000,Semi-Furnished,No Deposit,,2,North facing
+386,2,Apartment,Jubilee Hills,"24,500",1080,Semi-Furnished,No Deposit,,2,North facing
+387,2,Apartment,Jubilee Hills,"23,000",1000,Semi-Furnished,No Deposit,,1,North facing
+388,1,Apartment,Jubilee Hills,"12,000",550,Unfurnished,No Deposit,,1,West facing
+389,3,Apartment,Jubilee Hills,"85,000",3000,Semi-Furnished,No Deposit,,3,NorthEast facing
+390,3,Apartment,Jubilee Hills,"70,000",3000,Semi-Furnished,No Deposit,,3,South facing
+391,3,Apartment,Jubilee Hills,"75,000",2800,Semi-Furnished,No Deposit,,3,West facing
+392,1,Apartment,Jubilee Hills,"12,000",550,Semi-Furnished,No Deposit,,1,
+393,3,Apartment,Jubilee Hills,"65,000",3000,Furnished,No Deposit,,3,North facing
+394,2,Apartment,Jubilee Hills,"22,000",1700,Semi-Furnished,No Deposit,,2,North facing
+395,2,Apartment,Jubilee Hills,"25,000",1250,Semi-Furnished,No Deposit,,2,
+396,4,Apartment,Jubilee Hills,"80,000",3000,Semi-Furnished,No Deposit,,4,East facing
+397,2,Apartment,Jubilee Hills,"25,000",1200,Semi-Furnished,No Deposit,,2,North facing
+398,,,Jubilee Hills,"12,000",700,Semi-Furnished,No Deposit,,1,East facing
+399,3,Apartment,Jubilee Hills,"50,000",3000,Semi-Furnished,No Deposit,,3,East facing
+400,3,Apartment,Jubilee Hills,1,3000,Semi-Furnished,No Deposit,,2,East facing
+401,3,Apartment,Jubilee Hills,"45,000",1500,Semi-Furnished,No Deposit,,3,NorthEast facing
+402,3,Apartment,Jubilee Hills,"25,000",1800,Semi-Furnished,No Deposit,,3,East facing
+403,4,Villa,Jubilee Hills,1.3,4000,Furnished,No Deposit,,4,NorthEast facing
+404,2,Apartment,Jubilee Hills,"18,000",1000,Semi-Furnished,No Deposit,,2,
+405,2,Apartment,Jubilee Hills,"25,000",1050,Unfurnished,No Deposit,,2,
+406,2,Apartment,Jubilee Hills,"20,000",1050,Semi-Furnished,No Deposit,,2,
+407,2,Apartment,Jubilee Hills,"18,000",1050,Semi-Furnished,No Deposit,,2,
+408,2,Apartment,Jubilee Hills,"30,000",1050,Semi-Furnished,No Deposit,,2,
+409,3,Apartment,Jubilee Hills,"65,000",3300,Semi-Furnished,No Deposit,,3,
+410,2,Apartment,Jubilee Hills,"18,000",1000,Semi-Furnished,No Deposit,,2,
+411,2,Apartment,Jubilee Hills,"22,000",1100,Semi-Furnished,No Deposit,,2,NorthEast facing
+412,3,Apartment,Jubilee Hills,"40,000",1800,Semi-Furnished,No Deposit,,3,NorthEast facing
+413,1,Independent Floor,Jubilee Hills,"13,000",550,Semi-Furnished,No Deposit,,1,
+414,2,Apartment,Jubilee Hills,"28,000",1000,Furnished,No Deposit,,2,North facing
+415,3,Apartment,Jubilee Hills,"45,000",2300,Semi-Furnished,No Deposit,,3,East facing
+416,3,Apartment,Jubilee Hills,"35,000",1800,Furnished,No Deposit,,3,SouthEast facing
+417,,,Jubilee Hills,"25,000",600,Furnished,No Deposit,,1,East facing
+418,3,Apartment,Jubilee Hills,1,3000,Semi-Furnished,No Deposit,,3,
+419,3,Apartment,Jubilee Hills,"40,000",1500,Semi-Furnished,No Deposit,,3,East facing
+420,2,Apartment,Jubilee Hills,"25,000",1060,Semi-Furnished,No Deposit,,2,North facing
+421,2,Apartment,Jubilee Hills,"25,000",1100,Semi-Furnished,No Deposit,,2,North facing
+422,2,Apartment,Jubilee Hills,"22,000",1050,Semi-Furnished,No Deposit,,2,North facing
+423,3,Apartment,Jubilee Hills,"65,000",3000,Furnished,No Deposit,,3,North facing
+424,2,Apartment,Jubilee Hills,"25,000",1050,Semi-Furnished,No Deposit,,2,North facing
+425,1,Apartment,Jubilee Hills,"11,500",550,Semi-Furnished,No Deposit,,1,East facing
+426,2,Apartment,Jubilee Hills,"23,000",1060,Semi-Furnished,No Deposit,,2,NorthEast facing
+427,3,Apartment,Jubilee Hills,"25,000",1500,Semi-Furnished,No Deposit,,3,East facing
+428,3,Villa,Jubilee Hills,1.3,4000,Furnished,No Deposit,,3,South facing
+429,1,Apartment,Jubilee Hills,"12,500",560,Unfurnished,No Deposit,,1,East facing
+430,1,Apartment,Jubilee Hills,"12,000",550,Unfurnished,No Deposit,,1,South facing
+431,3,Apartment,Jubilee Hills,"56,000",2000,Semi-Furnished,No Deposit,,3,North facing
+432,3,Apartment,Jubilee Hills,"30,000",1600,Semi-Furnished,No Deposit,,3,North facing
+433,3,Apartment,Jubilee Hills,"60,000",2200,Semi-Furnished,No Deposit,,3,North facing
+434,3,Apartment,Jubilee Hills,"60,000",2500,Semi-Furnished,No Deposit,,3,East facing
+435,3,Apartment,Jubilee Hills,"55,000",2000,Semi-Furnished,No Deposit,,3,
+436,3,Apartment,Jubilee Hills,"45,000",2500,Semi-Furnished,No Deposit,,3,NorthEast facing
+437,1,Apartment,Jubilee Hills,"11,000",500,Unfurnished,No Deposit,,1,East facing
+438,2,Apartment,Jubilee Hills,"21,000",1000,Semi-Furnished,No Deposit,,2,East facing
+439,3,Apartment,Jubilee Hills,"65,000",2000,Semi-Furnished,No Deposit,,3,East facing
+440,1,Apartment,Jubilee Hills,"10,000",500,Unfurnished,No Deposit,,1,North facing
+441,1,Apartment,Jubilee Hills,"11,000",550,Unfurnished,No Deposit,,1,North facing
+442,4,Villa,Kokapet,1.5,4500,Semi-Furnished,No Deposit,,4,East facing
+443,3,Apartment,Kokapet,"59,000",1790,Semi-Furnished,No Deposit,,3,NorthEast facing
+444,4,Villa,Kokapet,2.49,4500,Furnished,No Deposit,,4,
+445,3,Apartment,Kokapet,"64,000",2100,Furnished,No Deposit,,3,NorthWest facing
+446,3,Apartment,Kokapet,"49,000",2615,Semi-Furnished,No Deposit,,3,NorthWest facing
+447,4,Villa,Kokapet,2.9,7500,Semi-Furnished,No Deposit,,5,
+448,3,Apartment,Kokapet,"56,000",2000,Semi-Furnished,No Deposit,,3,East facing
+449,3,Apartment,Kokapet,"49,000",1770,Semi-Furnished,No Deposit,,3,NorthEast facing
+450,3,Apartment,Kokapet,2,3455,Furnished,No Deposit,,3,East facing
+451,4,Villa,Kokapet,1.4,4500,Semi-Furnished,No Deposit,,6,
+452,3,Apartment,Kokapet,"60,000",2235,Semi-Furnished,1.2 L,availability immediately,3,
+453,2,Apartment,Kokapet,"25,000",1215,Semi-Furnished,No Deposit,,3,East facing
+454,4,Apartment,Kokapet,"58,000",2630,Semi-Furnished,No Deposit,,4,
+455,4,Villa,Kokapet,1.1,4020,Semi-Furnished,No Deposit,,5,East facing
+456,3,Apartment,Kokapet,"55,000",2100,Semi-Furnished,No Deposit,,3,NorthEast facing
+457,4,Villa,Kokapet,1.3,3300,Semi-Furnished,No Deposit,,4,East facing
+458,3,Apartment,Kokapet,"60,000",2235,Semi-Furnished,1.2 L,availability immediately,3,
+459,3,Apartment,Kokapet,"63,000",2000,Semi-Furnished,1.12 L,availability immediately,3,
+460,4,Villa,Kokapet,2.1,5100,Semi-Furnished,No Deposit,,6,
+461,3,Apartment,Kokapet,"40,000",1535,Semi-Furnished,"80,000",availability immediately,3,
+462,3,Apartment,Kokapet,"60,000",2400,Furnished,1.2 L,availability immediately,3,
+463,3,Apartment,Kokapet,"35,000",1800,Semi-Furnished,No Deposit,,3,
+464,2,Apartment,Kokapet,"28,000",1270,Semi-Furnished,No Deposit,,2,
+465,2,Apartment,Kokapet,"22,000",1270,Semi-Furnished,No Deposit,,2,
+466,3,Apartment,Kokapet,"60,000",2170,Furnished,1.8 L,availability immediately,3,
+467,3,Apartment,Kokapet,"55,000",2100,Semi-Furnished,No Deposit,,3,NorthEast facing
+468,4,Apartment,Kokapet,"47,000",2800,Semi-Furnished,No Deposit,,3,NorthEast facing
+469,3,Apartment,Kokapet,"55,000",2100,Semi-Furnished,No Deposit,,3,NorthEast facing
+470,3,Apartment,Kokapet,"55,000",2100,Semi-Furnished,No Deposit,,3,NorthEast facing
+471,3,Apartment,Kokapet,"59,000",1800,Semi-Furnished,No Deposit,,3,West facing
+472,3,Apartment,Kokapet,"35,000",1515,Semi-Furnished,No Deposit,,3,West facing
+473,4,Villa,Kokapet,1.2,4200,Furnished,No Deposit,,4,East facing
+474,2,Apartment,Kokapet,"22,000",1270,Semi-Furnished,No Deposit,,2,
+475,3,Apartment,Kokapet,"55,000",2100,Semi-Furnished,No Deposit,,3,NorthEast facing
+476,3,Apartment,Kokapet,"55,000",2100,Semi-Furnished,No Deposit,,3,NorthEast facing
+477,3,Apartment,Kokapet,"55,000",2160,Furnished,No Deposit,,3,East facing
+478,4,Villa,Kokapet,2.5,5000,Semi-Furnished,No Deposit,,6,
+479,4,Villa,Kokapet,1.7,4500,Semi-Furnished,No Deposit,,6,
+480,3,Apartment,Kokapet,"65,000",2235,Semi-Furnished,1.3 L,availability immediately,3,
+481,3,Apartment,Kokapet,"65,000",2160,Furnished,No Deposit,,3,East facing
+482,3,Apartment,Kokapet,"54,000",1466,Semi-Furnished,No Deposit,,3,NorthEast facing
+483,4,Villa,Kokapet,1.7,4500,Semi-Furnished,No Deposit,,6,
+484,3,Apartment,Kokapet,"55,000",2100,Semi-Furnished,No Deposit,,3,NorthEast facing
+485,4,Villa,Kokapet,1.5,4600,Semi-Furnished,No Deposit,,4,
+486,2,Apartment,Kokapet,"22,000",1270,Semi-Furnished,No Deposit,,2,
+487,2,Apartment,Kokapet,"22,000",1270,Semi-Furnished,No Deposit,,2,
+488,2,Apartment,Kokapet,"22,000",1270,Semi-Furnished,No Deposit,,2,
+489,2,Apartment,Kokapet,"22,000",1270,Semi-Furnished,No Deposit,,2,
+490,2,Apartment,Kokapet,"22,000",1270,Semi-Furnished,No Deposit,,2,
+491,2,Apartment,Kokapet,"22,000",1270,Semi-Furnished,No Deposit,,2,
+492,2,Apartment,Kokapet,"22,000",1270,Semi-Furnished,No Deposit,,2,East facing
+493,2,Apartment,Kokapet,"22,000",1270,Semi-Furnished,No Deposit,,2,East facing
+494,4,Villa,Kompally,"68,000",4500,Semi-Furnished,No Deposit,,4,
+495,5,Villa,Kompally,"90,000",5000,Furnished,No Deposit,,5,East facing
+496,1,Apartment,Kompally,"9,350",500,Unfurnished,No Deposit,,1,
+497,4,Apartment,Kompally,"75,000",1700,Semi-Furnished,No Deposit,,3,
+498,,,Kompally,"9,350",500,Unfurnished,No Deposit,,1,
+499,,,Kompally,"9,350",500,Unfurnished,No Deposit,,1,
+500,4,Villa,Kompally,1.6,5000,Semi-Furnished,No Deposit,,4,
+501,3,Apartment,Kompally,"23,000",1505,Semi-Furnished,No Deposit,,3,
+502,2,Apartment,Kompally,"16,000",1175,Semi-Furnished,"48,000",availability immediately,2,
+503,3,Apartment,Kompally,"27,500",1400,Furnished,No Deposit,,2,East facing
+504,6,Villa,Kompally,"40,000",2400,Furnished,No Deposit,,4,SouthEast facing
+505,4,Villa,Kompally,"42,000",2750,Semi-Furnished,"84,000",availability immediately,5,
+506,3,Apartment,Kompally,"22,000",1836,Semi-Furnished,1 L,availability immediately,3,
+507,3,Apartment,Kompally,"15,000",1420,Semi-Furnished,"28,000",availability immediately,3,
+508,4,Villa,Kompally,"50,000",3000,Semi-Furnished,1.5 L,availability immediately,3,
+509,3,Villa,Kompally,"30,000",1584,Semi-Furnished,"60,000",availability immediately,3,
+510,2,Apartment,Kompally,"20,400",1200,Unfurnished,"42,000",availability immediately,,
+511,3,Apartment,Kompally,"27,500",1400,Furnished,No Deposit,,2,East facing
+512,4,Apartment,Kompally,"13,000",1217,Unfurnished,No Deposit,,2,North facing
+513,2,Apartment,Kompally,"16,500",1457,Semi-Furnished,No Deposit,,2,NorthEast facing
+514,3,Apartment,Kompally,"20,000",1435,Unfurnished,No Deposit,,3,
+515,3,Apartment,Kompally,"25,000",1725,Semi-Furnished,"50,000",availability immediately,3,
+516,2,Apartment,Kompally,"15,500",930,Semi-Furnished,"40,000",availability immediately,2,
+517,3,Villa,Kompally,"40,000",3000,Furnished,No Deposit,,4,
+518,3,Apartment,Kompally,"22,000",1725,Furnished,No Deposit,,3,
+519,2,Apartment,Kompally,"21,000",1100,Furnished,No Deposit,,2,
+520,3,Apartment,Kompally,"20,000",1395,Semi-Furnished,"50,000",,3,5th of 5floor
+521,2,Independent Floor,Kompally,"9,000",850,Semi-Furnished,No Deposit,,1,South facing
+522,1,Apartment,Kompally,"6,000",150,Unfurnished,No Deposit,,1,
+523,3,Apartment,Kompally,"27,500",1400,Furnished,No Deposit,,2,East facing
+524,1,Independent House,Kompally,"9,000",650,Semi-Furnished,No Deposit,,1,
+525,3,Villa,Kompally,"40,000",3000,Furnished,No Deposit,,4,
+526,2,Independent House,Kompally,"13,000",850,Semi-Furnished,No Deposit,,2,
+527,3,Apartment,Kompally,"27,500",1400,Furnished,No Deposit,,2,East facing
+528,3,Villa,Kompally,"40,000",3000,Furnished,No Deposit,,5,
+529,3,Villa,Kompally,"40,000",3000,Furnished,No Deposit,,5,
+530,3,Apartment,Kompally,"27,500",1400,Furnished,No Deposit,,2,East facing
+531,3,Apartment,Kompally,"27,500",1400,Furnished,No Deposit,,2,East facing
+532,3,Apartment,Kompally,"27,500",1400,Furnished,No Deposit,,2,East facing
+533,3,Villa,Kompally,"40,000",3000,Furnished,No Deposit,,4,
+534,5,Villa,Kompally,"45,000",2700,Furnished,No Deposit,,,
+535,5,Villa,Kompally,"45,000",2700,Furnished,No Deposit,,,
+536,1,Apartment,Moosapet,"13,000",600,Semi-Furnished,No Deposit,,1,East facing
+537,4,Apartment,Moosapet,"37,200",1650,Semi-Furnished,No Deposit,,1,
+538,1,Apartment,Moosapet,"12,000",900,Unfurnished,No Deposit,,1,
+539,2,Independent House,Moosapet,"12,000",1200,Unfurnished,No Deposit,,2,
+540,1,Independent House,Moosapet,"7,000",600,Unfurnished,No Deposit,,1,
+541,2,Independent House,Moosapet,"12,000",1200,Unfurnished,No Deposit,,2,
+542,2,Independent House,Moosapet,"12,000",1200,Unfurnished,No Deposit,,2,
+543,2,Independent House,Moosapet,"12,000",1200,Unfurnished,No Deposit,,2,
+544,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,4,
+545,3,Apartment,Nizampet,"28,000",1500,Semi-Furnished,No Deposit,,3,East facing
+546,4,Apartment,Nizampet,"40,000",2600,Semi-Furnished,No Deposit,,4,
+547,1,Apartment,Nizampet,"17,400",1200,Semi-Furnished,No Deposit,,2,
+548,3,Apartment,Nizampet,"70,000",2800,Furnished,No Deposit,,3,North facing
+549,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,3,East facing
+550,2,Apartment,Nizampet,"10,000",980,Unfurnished,No Deposit,,2,
+551,3,Apartment,Nizampet,"30,000",1400,Semi-Furnished,No Deposit,,3,
+552,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,4,
+553,2,Apartment,Nizampet,"30,000",1245,Semi-Furnished,No Deposit,,2,
+554,3,Apartment,Nizampet,"20,000",1395,Unfurnished,No Deposit,,6,East facing
+555,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,4,
+556,3,Apartment,Nizampet,"13,000",1470,Semi-Furnished,No Deposit,,3,East facing
+557,2,Apartment,Nizampet,"14,000",1150,Furnished,No Deposit,,2,North facing
+558,2,Apartment,Nizampet,"18,000",1140,Furnished,No Deposit,,2,NorthEast facing
+559,3,Apartment,Nizampet,"14,000",1700,Unfurnished,No Deposit,,2,East facing
+560,3,Independent Floor,Nizampet,"22,000",1530,Furnished,No Deposit,,3,
+561,2,Apartment,Nizampet,"11,000",900,Semi-Furnished,No Deposit,,2,
+562,3,Apartment,Nizampet,"17,000",1400,Semi-Furnished,No Deposit,,2,
+563,2,Apartment,Nizampet,"14,500",1153,Furnished,No Deposit,,3,NorthEast facing
+564,3,Apartment,Nizampet,"16,000",1675,Semi-Furnished,No Deposit,,3,
+565,3,Apartment,Nizampet,"16,000",1350,Unfurnished,No Deposit,,3,
+566,2,Apartment,Nizampet,"12,500",1000,Semi-Furnished,No Deposit,,2,
+567,3,Apartment,Nizampet,"13,500",1661,Unfurnished,No Deposit,,2,East facing
+568,2,Independent Floor,Nizampet,"15,000",1400,Semi-Furnished,No Deposit,,2,
+569,2,Apartment,Nizampet,"12,000",1130,Semi-Furnished,"22,000",availability immediately,2,
+570,2,Apartment,Nizampet,"18,000",1150,Furnished,No Deposit,,2,
+571,2,Apartment,Nizampet,"12,000",1200,Semi-Furnished,No Deposit,,2,
+572,2,Apartment,Nizampet,"12,500",1175,Unfurnished,No Deposit,,2,
+573,5,Independent House,Nizampet,"25,000",3000,Semi-Furnished,No Deposit,,5,
+574,3,Independent House,Nizampet,"25,000",1800,Furnished,No Deposit,,3,NorthEast facing
+575,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,2,East facing
+576,3,Independent Floor,Nizampet,"22,000",1530,Furnished,No Deposit,,3,
+577,2,Apartment,Nizampet,"11,000",900,Semi-Furnished,No Deposit,,2,
+578,2,Independent House,Nizampet,"15,000",1400,Semi-Furnished,No Deposit,,2,
+579,3,Villa,Nizampet,"35,000",1650,Semi-Furnished,1 L,availability immediately,4,
+580,3,Independent Floor,Nizampet,"22,000",1530,Furnished,No Deposit,,3,
+581,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,2,East facing
+582,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,2,East facing
+583,3,Independent Floor,Nizampet,"22,000",1530,Furnished,No Deposit,,3,
+584,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,2,
+585,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,2,
+586,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,3,East facing
+587,3,Independent Floor,Nizampet,"22,000",1530,Furnished,No Deposit,,3,
+588,3,Independent Floor,Nizampet,"22,000",1530,Furnished,No Deposit,,3,
+589,3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,,1,
+590,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,3,East facing
+591,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,2,East facing
+592,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,2,East facing
+593,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,2,East facing
+594,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,2,East facing
+595,3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,,1,
+596,3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,,1,
+597,3,Independent Floor,Nizampet,"22,000",1530,Furnished,No Deposit,,3,East facing
+598,3,Independent Floor,Nizampet,"22,000",1530,Furnished,No Deposit,,3,East facing
+599,3,Independent Floor,Nizampet,"22,000",1530,Furnished,No Deposit,,3,
+600,3,Independent Floor,Nizampet,"22,000",1530,Furnished,No Deposit,,3,
+601,1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,,1,NorthEast facing
+602,1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,,1,NorthEast facing
+603,1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,,1,NorthEast facing
+604,1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,,1,NorthEast facing
+605,1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,,1,NorthEast facing
+606,1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,,1,NorthEast facing
+607,1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,,1,NorthEast facing
+608,1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,,1,NorthEast facing
+609,1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,,1,NorthEast facing
+610,1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,,1,NorthEast facing
+611,1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,,1,NorthEast facing
+612,1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,,1,NorthEast facing
+613,1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,,1,NorthEast facing
+614,1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,,1,NorthEast facing
+615,1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,,1,NorthEast facing
+616,1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,,1,NorthEast facing
+617,3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,,1,
+618,3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,,1,
+619,3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,,1,
+620,3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,,1,
+621,3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,,1,
+622,3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,,1,
+623,3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,,1,
+624,3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,,1,
+625,3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,,1,
+626,3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,,1,
+627,3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,,1,
+628,3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,,1,
+629,3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,,1,
+630,3,Apartment,Somajiguda,"20,000",1500,Semi-Furnished,No Deposit,,2,
+631,3,Apartment,Somajiguda,"55,000",2000,Furnished,No Deposit,,3,SouthEast facing
+632,2,Apartment,Somajiguda,"23,000",1100,Semi-Furnished,No Deposit,,2,East facing
+633,3,Apartment,Somajiguda,"45,000",2600,Semi-Furnished,No Deposit,,3,West facing
+634,3,Apartment,Somajiguda,"37,000",1850,Semi-Furnished,No Deposit,,3,NorthWest facing
+635,2,Apartment,Somajiguda,"22,000",850,Semi-Furnished,No Deposit,,2,West facing
+636,4,Apartment,Somajiguda,1,4800,Semi-Furnished,No Deposit,,5,
+637,3,Apartment,Somajiguda,"38,000",2525,Semi-Furnished,No Deposit,,3,North facing
+638,3,Independent House,Somajiguda,"14,000",800,Semi-Furnished,No Deposit,,2,
+639,3,Apartment,Somajiguda,"45,000",2500,Semi-Furnished,No Deposit,,3,
+640,3,Apartment,Somajiguda,"12,500",1500,Semi-Furnished,No Deposit,,,
+641,2,Apartment,Somajiguda,"12,000",860,Semi-Furnished,No Deposit,,2,North facing
+642,4,Independent House,Somajiguda,1,2500,Semi-Furnished,No Deposit,,4,
+643,4,Villa,Tellapur,1.09,3223,Semi-Furnished,No Deposit,,4,NorthEast facing
+644,3,Apartment,Tellapur,"30,000",1500,Furnished,No Deposit,,3,East facing
+645,4,Villa,Tellapur,"50,000",3000,Semi-Furnished,No Deposit,,3,
+646,3,Apartment,Tellapur,"34,000",1378,Semi-Furnished,No Deposit,,3,East facing
+647,3,Apartment,Tellapur,"45,000",2020,Furnished,No Deposit,,3,NorthEast facing
+648,3,Villa,Tellapur,"69,000",2800,Semi-Furnished,No Deposit,,3,NorthWest facing
+649,2,Apartment,Tellapur,"20,000",1250,Semi-Furnished,No Deposit,,2,SouthEast facing
+650,4,Villa,Tellapur,"55,000",3700,Semi-Furnished,No Deposit,,4,
+651,5,Villa,Tellapur,"80,000",4000,Furnished,No Deposit,,5,
+652,3,Apartment,Tellapur,"45,000",2200,Semi-Furnished,No Deposit,,3,NorthEast facing
+653,3,Apartment,Tellapur,"35,000",1900,Unfurnished,"70,000",availability immediately,3,
+654,5,Villa,Tellapur,1,4000,Semi-Furnished,No Deposit,,5,
+655,3,Apartment,Tellapur,"40,000",2348,Furnished,No Deposit,,3,
+656,3,Apartment,Tellapur,"35,000",1792,Semi-Furnished,No Deposit,,3,NorthEast facing
+657,3,Apartment,Tellapur,"45,000",2020,Furnished,No Deposit,,3,NorthEast facing
+658,3,Apartment,Tellapur,"45,000",2200,Semi-Furnished,No Deposit,,3,NorthEast facing
+659,3,Apartment,Tellapur,"37,000",1600,Semi-Furnished,No Deposit,,3,NorthEast facing
+660,3,Apartment,Tellapur,"45,000",2020,Furnished,No Deposit,,3,NorthEast facing
+661,3,Apartment,Tellapur,"45,000",2200,Semi-Furnished,No Deposit,,3,NorthEast facing
+662,3,Apartment,Tellapur,"52,000",2000,Furnished,No Deposit,,3,East facing
+663,3,Apartment,Tellapur,"45,000",2020,Furnished,No Deposit,,3,NorthEast facing
+664,4,Apartment,Tellapur,"45,000",2200,Semi-Furnished,No Deposit,,4,East facing
+665,3,Apartment,Tellapur,"54,000",2000,Furnished,No Deposit,,3,East facing
+666,3,Apartment,Tellapur,"47,000",2020,Furnished,No Deposit,,3,NorthEast facing
+667,3,Apartment,Tellapur,"45,000",2200,Semi-Furnished,No Deposit,,3,NorthEast facing
+668,3,Apartment,Tellapur,"52,000",2000,Furnished,No Deposit,,3,East facing
+669,3,Apartment,Tellapur,"44,000",2020,Furnished,No Deposit,,3,NorthEast facing
+670,3,Apartment,Tellapur,"45,000",2200,Semi-Furnished,No Deposit,,3,West facing
+671,3,Apartment,Tellapur,"45,000",2020,Furnished,No Deposit,,3,NorthEast facing
+672,4,Apartment,Tellapur,"45,000",2200,Semi-Furnished,No Deposit,,4,East facing
+673,3,Apartment,Tellapur,"45,000",2970,Semi-Furnished,No Deposit,,3,East facing
+674,3,Apartment,Tellapur,"45,000",2200,Semi-Furnished,No Deposit,,3,West facing
+675,3,Apartment,Tellapur,"45,000",2200,Semi-Furnished,No Deposit,,3,NorthEast facing
+676,3,Apartment,Tellapur,"44,000",1900,Semi-Furnished,No Deposit,,3,East facing
+677,5,Villa,Nallagandla Gachibowli,"80,000",4000,Semi-Furnished,No Deposit,,5,West facing
+678,5,Villa,Moinabad,2,7000,Furnished,No Deposit,,5,East facing
+679,4,Villa,Kompally,"68,000",4500,Semi-Furnished,No Deposit,,4,
+680,8,Villa,Kismatpur,"50,000",3400,Semi-Furnished,No Deposit,,5,
+681,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,4,
+682,4,Villa,Kokapet,1.5,4500,Semi-Furnished,No Deposit,,4,East facing
+683,3,Villa,Nagole,"80,000",3200,Semi-Furnished,No Deposit,,3,NorthEast facing
+684,4,Villa,Serilingampally,3.5,6200,Semi-Furnished,No Deposit,,4,West facing
+685,4,Villa,Bachupally,"27,000",2000,Semi-Furnished,No Deposit,,4,East facing
+686,5,Villa,Narsingi,"75,000",4500,Semi-Furnished,No Deposit,,4,West facing
+687,3,Villa,Kismatpur,"80,000",2800,Furnished,No Deposit,,3,West facing
+688,4,Villa,Nanakramguda,2.5,5000,Semi-Furnished,No Deposit,,6,
+689,5,Villa,Kompally,"90,000",5000,Furnished,No Deposit,,5,East facing
+690,4,Villa,Jubilee Hills,1.3,4000,Furnished,No Deposit,,4,NorthEast facing
+691,4,Villa,Mokila,"45,000",2500,Unfurnished,No Deposit,,4,
+692,3,Villa,Manikonda,"80,000",3000,Semi-Furnished,No Deposit,,3,East facing
+693,3,Villa,Jubilee Hills,1.3,4000,Furnished,No Deposit,,3,South facing
+694,8,Villa,Habsiguda,"50,000",3000,Furnished,No Deposit,,9,
+695,4,Villa,Tellapur,1.09,3223,Semi-Furnished,No Deposit,,4,NorthEast facing
+696,4,Villa,Tellapur,"50,000",3000,Semi-Furnished,No Deposit,,3,
+697,4,Villa,Mallampet,"25,000",2700,Semi-Furnished,No Deposit,,3,West facing
+698,5,Villa,Kondapur,1.5,6000,Semi-Furnished,No Deposit,,5,East facing
+699,4,Villa,Hafeezpet,1.8,3150,Semi-Furnished,No Deposit,,6,
+700,4,Villa,Madhapur,2.1,5500,Semi-Furnished,No Deposit,,5,
+701,2,Villa,Mangalpally,"11,200",1600,Unfurnished,No Deposit,,2,
+702,4,Villa,Serilingampally,3.5,6200,Semi-Furnished,No Deposit,,4,West facing
+703,3,Villa,Banjara Hills,"81,000",3000,Semi-Furnished,No Deposit,,3,NorthEast facing
+704,3,Villa,Nagole,"80,001",3200,Semi-Furnished,No Deposit,,3,NorthEast facing
+705,5,Villa,Jubilee Hills,9,9000,Furnished,No Deposit,,5,
+706,4,Villa,Bowenpally,"35,000",2000,Semi-Furnished,No Deposit,,4,NorthEast facing
+707,4,Villa,Gachibowli,1.6,5000,Semi-Furnished,No Deposit,,4,
+708,5,Villa,Shaikpet,3,5000,Furnished,No Deposit,,6,East facing
+709,5,Villa,Sathamrai Village,"50,000",3500,Semi-Furnished,No Deposit,,5,East facing
+710,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,3,East facing
+711,5,Villa,Narsingi,1.9,5200,Semi-Furnished,No Deposit,,6,
+712,4,Villa,Jubilee Hills,1.7,4000,Furnished,No Deposit,,4,
+713,4,Villa,Narsingi,1.4,4200,Semi-Furnished,No Deposit,,5,East facing
+714,4,Villa,Kompally,1.6,5000,Semi-Furnished,No Deposit,,4,
+715,5,Villa,Banjara Hills,1.8,4700,Semi-Furnished,No Deposit,,6,NorthEast facing
+716,3,Villa,Tellapur,"69,000",2800,Semi-Furnished,No Deposit,,3,NorthWest facing
+717,4,Villa,Kokapet,2.49,4500,Furnished,No Deposit,,4,
+718,4,Villa,Serilingampally,3.5,6200,Semi-Furnished,No Deposit,,4,West facing
+719,5,Villa,Tellapur,"80,000",4000,Furnished,No Deposit,,5,
+720,3,Villa,Vattinagulapally,"24,000",1980,Semi-Furnished,No Deposit,,3,
+721,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,4,
+722,4,Villa,Kokapet,2.9,7500,Semi-Furnished,No Deposit,,5,
+723,4,Villa,Gachibowli,1.7,4000,Semi-Furnished,No Deposit,,4,East facing
+724,5,Villa,Jubilee Hills,1,5000,Semi-Furnished,No Deposit,,5,
+725,4,Villa,Narsingi,1,4600,Semi-Furnished,1 L,availability immediately,4,
+726,4,Villa,Kokapet,1.3,3300,Semi-Furnished,No Deposit,,4,East facing
+727,4,Villa,Sathamrai Village,"40,000",3000,Unfurnished,No Deposit,,4,East facing
+728,5,Villa,Banjara Hills,1.6,4700,Furnished,No Deposit,,6,
+729,4,Villa,Kokapet,1.1,4020,Semi-Furnished,No Deposit,,5,East facing
+730,4,Villa,Maheshwaram,"50,000",3350,Furnished,No Deposit,,4,East facing
+731,4,Villa,Kompally,"50,000",3000,Semi-Furnished,1.5 L,availability immediately,3,
+732,4,Villa,Sainikpuri,"47,000",3800,Furnished,No Deposit,,4,NorthWest facing
+733,4,Villa,Gandipet,"45,000",2850,Semi-Furnished,"90,000",availability immediately,5,
+734,6,Villa,Kompally,"40,000",2400,Furnished,No Deposit,,4,SouthEast facing
+735,4,Villa,Kompally,"42,000",2750,Semi-Furnished,"84,000",availability immediately,5,
+736,4,Villa,Miyapur,"55,000",3765,Semi-Furnished,1.1 L,availability immediately,4,
+737,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,4,
+738,2,Villa,Medchal,"20,000",1300,Unfurnished,"40,000",availability immediately,2,
+739,4,Villa,Kapra,"20,000",3000,Unfurnished,"50,000",availability immediately,4,
+740,4,Villa,Patancheru,"25,000",2500,Unfurnished,"50,000",availability immediately,4,
+741,2,Villa,Hydershakote,"15,000",1250,Semi-Furnished,"15,000",availability immediately,2,
+742,2,Villa,Mallapur,"13,500",1350,Semi-Furnished,"27,000",availability immediately,2,
+743,3,Villa,Maheshwaram,"35,000",2500,Semi-Furnished,No Deposit,,4,
+744,3,Villa,Miyapur,"28,000",2626,Semi-Furnished,No Deposit,,3,East facing
+745,2,Villa,Osman Nagar,"12,000",1650,Unfurnished,"24,000",availability immediately,2,
+746,2,Villa,Shamshabad,"26,000",1494,Furnished,"52,000",availability immediately,3,
+747,3,Villa,Mokila,"40,000",2553,Semi-Furnished,"80,000",,3,availability Dec 2023
+748,5,Villa,Gachibowli,1.5,4800,Semi-Furnished,No Deposit,,6,West facing
+749,3,Villa,Mokila,"30,000",2900,Semi-Furnished,No Deposit,,3,
+750,5,Villa,Kollur,"90,000",4200,Semi-Furnished,No Deposit,,6,
+751,3,Villa,Kompally,"30,000",1584,Semi-Furnished,"60,000",availability immediately,3,
+752,3,Villa,Mokila,"18,000",2250,Semi-Furnished,"54,000",availability immediately,3,
+753,5,Villa,Kondapur,1.5,7800,Semi-Furnished,No Deposit,availability immediately,5,
+754,3,Villa,Shamshabad,"50,000",2565,Unfurnished,No Deposit,,2,West facing
+755,4,Villa,Mokila,"40,000",3100,Semi-Furnished,No Deposit,,4,
+756,3,Villa,Kompally,"40,000",3000,Furnished,No Deposit,,4,
+757,3,Villa,Bandlaguda Jagir,"35,600",2000,Furnished,No Deposit,,3,
+758,3,Villa,Bachupally,"35,000",1998,Semi-Furnished,"35,000",availability immediately,3,
+759,3,Villa,Nizampet,"35,000",1650,Semi-Furnished,1 L,availability immediately,4,
+760,4,Villa,Gandipet,"35,000",2200,Semi-Furnished,No Deposit,,5,
+761,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,2,East facing
+762,5,Villa,Mokila,"30,000",3600,Semi-Furnished,No Deposit,,6,West facing
+763,4,Villa,Chandanagar,"30,000",4000,Semi-Furnished,No Deposit,,4,NorthEast facing
+764,5,Villa,Bolarum,"27,500",1800,Semi-Furnished,No Deposit,,5,
+765,3,Villa,Uppal Kalan,"27,000",1600,Furnished,No Deposit,,3,
+766,3,Villa,Velmala,"25,000",1783,Semi-Furnished,"50,000",availability immediately,3,
+767,3,Villa,Jubilee Hills,"25,000",5000,Semi-Furnished,No Deposit,,2,
+768,4,Villa,Trimalgherry,"23,000",2700,Semi-Furnished,No Deposit,,4,East facing
+769,2,Villa,Nadergul,"6,999",990,Semi-Furnished,"6,999",,2,
+770,3,Villa,Jalapalli,"16,000",1000,Semi-Furnished,No Deposit,,3,
+771,2,Villa,Aminpur,"10,000",1050,Semi-Furnished,No Deposit,,2,
+772,1,Villa,Miyapur,"8,500",597,Unfurnished,No Deposit,,1,East facing
+773,4,Villa,Kukatpally,"74,000",2940,Semi-Furnished,No Deposit,,4,NorthEast facing
+774,4,Villa,Kokapet,1.2,4200,Furnished,No Deposit,,4,East facing
+775,4,Villa,Serilingampally,2.7,6500,Semi-Furnished,No Deposit,,1,
+776,3,Villa,Gopanpally,"40,000",1980,Semi-Furnished,No Deposit,,3,East facing
+777,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,2,East facing
+778,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,2,East facing
+779,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,2,
+780,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,2,
+781,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,3,East facing
+782,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,3,East facing
+783,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,2,East facing
+784,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,2,East facing
+785,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,2,East facing
+786,4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,,2,East facing
+787,3,Villa,Vattinagulapally,"22,000",1980,Semi-Furnished,No Deposit,,3,North facing
+788,4,Villa,Gachibowli,1.6,4800,Semi-Furnished,No Deposit,,4,
+789,4,Villa,Gandipet,1.99,5000,Semi-Furnished,No Deposit,,5,West facing
+790,4,Villa,Gachibowli,2.5,5000,Furnished,No Deposit,,4,
+791,4,Villa,Gandipet,4,5500,Semi-Furnished,No Deposit,,5,
+792,4,Villa,Nanakramguda,2.75,6500,Semi-Furnished,No Deposit,,5,East facing
+793,4,Villa,Hitech City,1.4,4800,Semi-Furnished,No Deposit,,5,
+794,5,Villa,Gachibowli,1.5,5000,Semi-Furnished,No Deposit,,6,
+795,4,Villa,Gandipet,2.25,5800,Semi-Furnished,No Deposit,,5,North facing
+796,5,Villa,Nanakramguda,2,5000,Furnished,No Deposit,,5,
+797,4,Villa,Madhapur,2.5,5300,Furnished,No Deposit,,4,
+798,4,Villa,Hitech City,1.19,3500,Semi-Furnished,No Deposit,,5,
+799,4,Villa,Nanakramguda,3.25,5200,Semi-Furnished,No Deposit,,5,East facing
+800,4,Villa,Gachibowli,3,7000,Semi-Furnished,No Deposit,,5,
+801,4,Villa,Nanakramguda,3,6000,Semi-Furnished,No Deposit,,5,East facing
+802,4,Villa,Gopanpally,1.3,4000,Semi-Furnished,No Deposit,,4,West facing
+803,3,Villa,Kismatpur,1.5,4600,Furnished,No Deposit,,4,East facing
+804,4,Villa,Nanakramguda,3,5000,Semi-Furnished,No Deposit,,6,
+805,6,Villa,Manikonda,1.99,6500,Furnished,No Deposit,,8,
+806,4,Villa,Manikonda,1.85,6000,Semi-Furnished,No Deposit,,6,
+807,4,Villa,Gopanpally,1,4500,Semi-Furnished,No Deposit,,4,
+808,4,Villa,Gachibowli,1.5,4500,Semi-Furnished,No Deposit,,6,East facing
+809,4,Villa,Gandipet,2.25,6600,Semi-Furnished,No Deposit,,6,
+810,4,Villa,Gachibowli,1.75,4800,Semi-Furnished,No Deposit,,6,
+811,4,Villa,Gachibowli,1.65,4800,Semi-Furnished,No Deposit,,6,
+812,4,Villa,Kokapet,1.4,4500,Semi-Furnished,No Deposit,,6,
+813,4,Villa,Kokapet,1.7,4500,Semi-Furnished,No Deposit,,6,
+814,4,Villa,Kokapet,2.1,5100,Semi-Furnished,No Deposit,,6,
+815,4,Villa,Kokapet,2.5,5000,Semi-Furnished,No Deposit,,6,
+816,4,Villa,Manikonda,1.85,6000,Semi-Furnished,No Deposit,,6,
+817,4,Villa,Gandipet,1.35,3508,Semi-Furnished,No Deposit,,6,
+818,4,Villa,Gandipet,1.55,4800,Semi-Furnished,No Deposit,,6,
+819,4,Villa,Gandipet,3,6000,Semi-Furnished,No Deposit,,5,
+820,4,Villa,Gandipet,2.49,6000,Semi-Furnished,No Deposit,,5,
+821,4,Villa,Gandipet,3,5500,Semi-Furnished,No Deposit,,5,
+822,4,Villa,Manikonda,1.85,6000,Semi-Furnished,No Deposit,,6,
+823,4,Villa,Kokapet,1.7,4500,Semi-Furnished,No Deposit,,6,
+824,4,Villa,Kokapet,1.5,4600,Semi-Furnished,No Deposit,,4,
+825,4,Villa,Nanakramguda,3.2,5500,Furnished,No Deposit,,6,
+826,3,Villa,Kismatpur,"85,000",4000,Semi-Furnished,No Deposit,,5,
+827,4,Villa,Tellapur,"55,000",3700,Semi-Furnished,No Deposit,,4,
+828,5,Villa,Tellapur,1,4000,Semi-Furnished,No Deposit,,5,
+829,4,Villa,Mokila,"40,000",3000,Semi-Furnished,No Deposit,,4,East facing
+830,3,Villa,Kompally,"40,000",3000,Furnished,No Deposit,,4,
+831,3,Villa,Kompally,"40,000",3000,Furnished,No Deposit,,5,
+832,3,Villa,Kompally,"40,000",3000,Furnished,No Deposit,,5,
+833,3,Villa,Kompally,"40,000",3000,Furnished,No Deposit,,4,
+834,5,Villa,Kompally,"45,000",2700,Furnished,No Deposit,,,
+835,5,Villa,Kompally,"45,000",2700,Furnished,No Deposit,,,
+836,3,Independent House,Alwal,"20,700",1500,Furnished,No Deposit,,2,
+837,2,Independent House,Alwal,"13,500",1300,Unfurnished,No Deposit,,2,
+838,1,Independent House,Alwal,"7,020",700,Unfurnished,No Deposit,,1,
+839,1,Independent House,Alwal,"7,020",700,Unfurnished,No Deposit,,1,
+840,4,Independent House,Gajilaramavaram,"24,000",1800,Semi-Furnished,No Deposit,,4,
+841,4,Independent House,Jubilee Hills,3.5,5800,Furnished,No Deposit,,4,West facing
+842,2,Independent House,Kukatpally,"18,000",1350,Furnished,No Deposit,,2,North facing
+843,2,Independent House,Shaikpet,"12,000",1200,Unfurnished,No Deposit,,1,NorthEast facing
+844,2,Independent House,Sri Nagar Colony,"25,000",1550,Semi-Furnished,No Deposit,,2,
+845,1,Independent House,Vanasthalipuram,"6,500",1200,Unfurnished,No Deposit,,1,
+846,2,Independent House,Hastinapuram,"9,500",1500,Semi-Furnished,No Deposit,,2,
+847,2,Independent House,Himayat Nagar,"25,000",1500,Semi-Furnished,No Deposit,,2,
+848,1,Independent House,LB Nagar,"10,000",150,Unfurnished,No Deposit,,1,
+849,2,Independent House,Kistareddypet,"9,000",1100,Unfurnished,No Deposit,,2,West facing
+850,2,Independent House,Madhapur,"18,000",1000,Unfurnished,No Deposit,,2,
+851,2,Independent House,Chandanagar,"10,000",1200,Semi-Furnished,No Deposit,,2,East facing
+852,1,Independent House,Zamistanpur,"5,800",280,Unfurnished,No Deposit,,1,
+853,2,Independent House,Pragathi Nagar Kukatpally,"13,000",1100,Unfurnished,No Deposit,,2,East facing
+854,1,Independent House,Ramachandra Puram,"10,000",550,Semi-Furnished,No Deposit,,1,
+855,2,Independent House,Bandlaguda Jagir,"14,000",1300,Unfurnished,No Deposit,,3,
+856,1,Independent House,Sanjeeva Reddy Nagar,"5,000",180,Semi-Furnished,No Deposit,,1,
+857,1,Independent House,Safilguda,"6,000",540,Unfurnished,No Deposit,,,
+858,1,Independent House,Begumpet,"9,000",550,Semi-Furnished,"9,000",availability immediately,1,
+859,3,Independent House,Somajiguda,"14,000",800,Semi-Furnished,No Deposit,,2,
+860,1,Independent House,Alwal,"6,000",800,Unfurnished,No Deposit,,1,
+861,1,Independent House,Gajularamaram,"7,000",700,Unfurnished,No Deposit,,1,North facing
+862,2,Independent House,Aminpur,"10,000",1800,Unfurnished,No Deposit,,2,East facing
+863,2,Independent House,Pocharam,"12,000",800,Unfurnished,No Deposit,,2,
+864,2,Independent House,Banjara Hills,"13,000",960,Semi-Furnished,No Deposit,,1,North facing
+865,1,Independent House,Chinthal Basthi,"4,500",450,Unfurnished,No Deposit,,1,
+866,9,Independent House,raidurgam,3.75,8820,Semi-Furnished,No Deposit,,9,
+867,2,Independent House,Bandlaguda Jagir,"12,000",1100,Unfurnished,No Deposit,,2,
+868,4,Independent House,Jubilee Hills,6,7500,Semi-Furnished,No Deposit,,5,East facing
+869,,,Ameerpet,"5,500",410,Unfurnished,No Deposit,,1,
+870,,,Boduppal,"6,500",550,Unfurnished,No Deposit,,1,
+871,,,Sanjeeva Reddy Nagar,"5,500",450,Unfurnished,No Deposit,,1,
+872,3,Independent House,LB Nagar,"52,000",3000,Semi-Furnished,No Deposit,,3,West facing
+873,1,Independent House,Boduppal,"7,500",1000,Semi-Furnished,No Deposit,,1,NorthEast facing
+874,1,Independent House,West Marredpally,"7,000",400,Semi-Furnished,No Deposit,,1,
+875,,,Hafeezpet,"13,500",800,Semi-Furnished,No Deposit,,1,
+876,,,Hastinapuram,"12,000",1200,Semi-Furnished,No Deposit,,2,
+877,2,Independent House,Hafeezpet,"33,400",2500,Semi-Furnished,No Deposit,,3,
+878,2,Independent House,Bachupally,"26,000",1200,Semi-Furnished,No Deposit,,2,
+879,,,Hastinapuram,"12,000",1200,Semi-Furnished,No Deposit,,2,
+880,1,Independent House,Bolarum,"16,500",1050,Semi-Furnished,No Deposit,,2,
+881,,,Kundanpally,"9,000",900,Unfurnished,No Deposit,,1,
+882,1,Independent House,West Marredpally,"7,000",400,Semi-Furnished,No Deposit,,1,
+883,1,Independent House,Bandlaguda Jagir,"15,000",1100,Unfurnished,No Deposit,,2,
+884,3,Independent House,Shaikpet,"37,000",3200,Semi-Furnished,No Deposit,,3,
+885,1,Independent House,Bolarum,"11,000",1000,Semi-Furnished,No Deposit,,2,
+886,2,Independent House,Puppalaguda,"28,200",1700,Semi-Furnished,No Deposit,,2,
+887,2,Independent House,Puppalaguda,"28,200",1700,Semi-Furnished,No Deposit,,2,
+888,3,Independent House,Sainikpuri,"18,000",1250,Semi-Furnished,No Deposit,,2,
+889,1,Independent House,Bolarum,"11,000",1000,Semi-Furnished,No Deposit,,2,
+890,,,Kapra,"20,000",550,Semi-Furnished,No Deposit,,1,
+891,1,Independent House,Whisper Valley,"22,000",1200,Semi-Furnished,No Deposit,,2,
+892,,,BHEL,"8,800",800,Unfurnished,No Deposit,,1,
+893,,,Hakimpet Hyderabad Karimnagar Highway,"7,700",450,Semi-Furnished,No Deposit,,1,
+894,,,Hakimpet Hyderabad Karimnagar Highway,"7,700",450,Semi-Furnished,No Deposit,,1,
+895,1,Independent House,Qutub Shahi Tombs,"19,000",1300,Unfurnished,No Deposit,,2,
+896,4,Independent House,Begumpet,1.5,4000,Semi-Furnished,No Deposit,,4,
+897,1,Independent House,Bolarum,"11,000",1000,Unfurnished,No Deposit,,2,
+898,1,Independent House,Bolarum,"11,000",1000,Unfurnished,No Deposit,,2,
+899,2,Independent House,Kondapur,"17,000",1252,Unfurnished,No Deposit,,2,North facing
+900,1,Independent House,Qutub Shahi Tombs,"19,000",1300,Unfurnished,No Deposit,,2,
+901,5,Independent House,Banjara Hills,2,4500,Semi-Furnished,No Deposit,,5,NorthEast facing
+902,2,Independent House,Mahendra Hills,"25,000",1100,Semi-Furnished,No Deposit,,2,
+903,2,Independent House,Mahendra Hills,"25,000",1050,Semi-Furnished,No Deposit,,2,
+904,2,Independent House,LB Nagar,"20,000",1200,Unfurnished,No Deposit,,2,North facing
+905,,,Kundanpally,"9,000",900,Unfurnished,No Deposit,,1,
+906,4,Independent House,Sri Nagar Colony,"94,000",2200,Semi-Furnished,No Deposit,,4,NorthEast facing
+907,1,Independent House,BHEL,"11,300",1000,Unfurnished,No Deposit,,2,
+908,10,Independent House,West Marredpally,1.5,8000,Semi-Furnished,No Deposit,,9,
+909,1,Independent House,Bandlaguda Jagir,"15,000",1100,Unfurnished,No Deposit,,2,
+910,1,Independent House,Balanagar,"5,600",500,Unfurnished,No Deposit,,1,
+911,3,Independent House,Shaikpet,"37,000",3200,Semi-Furnished,No Deposit,,3,
+912,2,Independent House,Bachupally,"26,000",1200,Semi-Furnished,No Deposit,,2,
+913,2,Independent House,Kothapet,"13,000",1350,Semi-Furnished,No Deposit,,2,SouthEast facing
+914,1,Independent House,Boduppal,"7,500",150,Unfurnished,No Deposit,,2,
+915,2,Independent House,Bandlaguda Jagir,"12,000",1100,Semi-Furnished,No Deposit,,2,
+916,2,Independent House,Aminpur,"10,000",1100,Unfurnished,No Deposit,,2,
+917,,,Serilingampally,"11,300",700,Unfurnished,No Deposit,,1,
+918,,,Serilingampally,"11,300",700,Unfurnished,No Deposit,,1,
+919,3,Independent House,Qutub Shahi Tombs,"18,000",1350,Semi-Furnished,No Deposit,,2,East facing
+920,2,Independent House,Tarnaka,"13,000",1100,Semi-Furnished,No Deposit,,2,NorthWest facing
+921,,,Boduppal,"6,500",550,Unfurnished,No Deposit,,1,
+922,,,Shamshabad,"5,000",180,Semi-Furnished,No Deposit,,1,
+923,2,Independent House,Balanagar,"10,000",1150,Furnished,No Deposit,,2,
+924,,,Banjara Hills,"10,500",600,Furnished,No Deposit,,1,
+925,2,Independent House,Rampally,"7,000",850,Semi-Furnished,"21,000",availability immediately,2,
+926,2,Independent House,Alwal,"8,500",1200,Unfurnished,No Deposit,,1,
+927,1,Independent House,Attapur,"6,500",650,Unfurnished,No Deposit,,1,
+928,1,Independent House,Sanath Nagar,"5,500",500,Unfurnished,No Deposit,,1,
+929,2,Independent House,Peerzadiguda,"10,000",1200,Furnished,"10,000",availability immediately,2,
+930,1,Independent House,Habsiguda,"8,000",600,Unfurnished,No Deposit,,1,East facing
+931,1,Independent House,AS Rao Nagar,"7,500",1200,Semi-Furnished,No Deposit,,1,
+932,2,Independent House,Moosapet,"12,000",1200,Unfurnished,No Deposit,,2,
+933,2,Independent House,Moosapet,"12,000",1200,Unfurnished,No Deposit,,2,
+934,2,Independent House,Moosapet,"12,000",1200,Unfurnished,No Deposit,,2,
+935,2,Independent House,Moosapet,"12,000",1200,Unfurnished,No Deposit,,2,
+936,3,Independent House,Shaikpet,"37,000",3200,Semi-Furnished,No Deposit,,3,
+937,1,Independent House,Rasoolpura,"20,000",1500,Semi-Furnished,No Deposit,,2,
+938,2,Independent House,Manikonda,"22,500",1800,Semi-Furnished,No Deposit,,2,
+939,2,Independent House,Karkhana,"35,500",1800,Semi-Furnished,No Deposit,,3,
+940,2,Independent House,Karkhana,"35,500",1800,Semi-Furnished,No Deposit,,3,
+941,1,Independent House,Begumpet,"18,000",1100,Semi-Furnished,No Deposit,,2,
+942,2,Independent House,AS Rao Nagar,"18,500",1700,Semi-Furnished,No Deposit,,3,
+943,2,Independent House,AS Rao Nagar,"18,500",1700,Semi-Furnished,No Deposit,,3,
+944,1,Independent House,LB Nagar,"8,500",250,Semi-Furnished,No Deposit,,1,
+945,1,Independent House,Begumpet,"30,000",1200,Semi-Furnished,No Deposit,,2,
+946,1,Independent House,Gurram Guda,"10,700",1200,Unfurnished,No Deposit,,2,
+947,1,Independent House,LB Nagar,"8,500",250,Semi-Furnished,No Deposit,,1,
+948,2,Independent House,Gajularamaram,"9,000",1080,Unfurnished,No Deposit,,2,
+949,2,Independent House,Vanasthalipuram,"14,000",1300,Semi-Furnished,No Deposit,,2,East facing
+950,2,Independent House,Budvel,"9,000",800,Unfurnished,No Deposit,,2,
+951,5,Independent House,Banjara Hills,4,6300,Furnished,No Deposit,,5,
+952,,,Boduppal,"8,000",800,Unfurnished,No Deposit,,1,
+953,,,Boduppal,"8,000",800,Unfurnished,No Deposit,,1,
+954,,,Boduppal,"8,000",800,Unfurnished,No Deposit,,1,
+955,,,Hafeezpet,"13,500",800,Semi-Furnished,No Deposit,,1,

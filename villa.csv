@@ -1,0 +1,160 @@
+BHK,Type,Location,Price,Sqft,Status,Deposit,Availability,Bathrooms,Facing
+5,Villa,Nallagandla Gachibowli,"80,000",4000,Semi-Furnished,No Deposit,NA,5,West facing
+5,Villa,Moinabad,2,7000,Furnished,No Deposit,NA,5,East facing
+4,Villa,Kompally,"68,000",4500,Semi-Furnished,No Deposit,NA,4,NA
+8,Villa,Kismatpur,"50,000",3400,Semi-Furnished,No Deposit,NA,5,NA
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,4,NA
+4,Villa,Kokapet,1.5,4500,Semi-Furnished,No Deposit,NA,4,East facing
+3,Villa,Nagole,"80,000",3200,Semi-Furnished,No Deposit,NA,3,NorthEast facing
+4,Villa,Serilingampally,3.5,6200,Semi-Furnished,No Deposit,NA,4,West facing
+4,Villa,Bachupally,"27,000",2000,Semi-Furnished,No Deposit,NA,4,East facing
+5,Villa,Narsingi,"75,000",4500,Semi-Furnished,No Deposit,NA,4,West facing
+3,Villa,Kismatpur,"80,000",2800,Furnished,No Deposit,NA,3,West facing
+4,Villa,Nanakramguda,2.5,5000,Semi-Furnished,No Deposit,NA,6,NA
+5,Villa,Kompally,"90,000",5000,Furnished,No Deposit,NA,5,East facing
+4,Villa,Jubilee Hills,1.3,4000,Furnished,No Deposit,NA,4,NorthEast facing
+4,Villa,Mokila,"45,000",2500,Unfurnished,No Deposit,NA,4,NA
+3,Villa,Manikonda,"80,000",3000,Semi-Furnished,No Deposit,NA,3,East facing
+3,Villa,Jubilee Hills,1.3,4000,Furnished,No Deposit,NA,3,South facing
+8,Villa,Habsiguda,"50,000",3000,Furnished,No Deposit,NA,9,NA
+4,Villa,Tellapur,1.09,3223,Semi-Furnished,No Deposit,NA,4,NorthEast facing
+4,Villa,Tellapur,"50,000",3000,Semi-Furnished,No Deposit,NA,3,NA
+4,Villa,Mallampet,"25,000",2700,Semi-Furnished,No Deposit,NA,3,West facing
+5,Villa,Kondapur,1.5,6000,Semi-Furnished,No Deposit,NA,5,East facing
+4,Villa,Hafeezpet,1.8,3150,Semi-Furnished,No Deposit,NA,6,NA
+4,Villa,Madhapur,2.1,5500,Semi-Furnished,No Deposit,NA,5,NA
+2,Villa,Mangalpally,"11,200",1600,Unfurnished,No Deposit,NA,2,NA
+4,Villa,Serilingampally,3.5,6200,Semi-Furnished,No Deposit,NA,4,West facing
+3,Villa,Banjara Hills,"81,000",3000,Semi-Furnished,No Deposit,NA,3,NorthEast facing
+3,Villa,Nagole,"80,001",3200,Semi-Furnished,No Deposit,NA,3,NorthEast facing
+5,Villa,Jubilee Hills,9,9000,Furnished,No Deposit,NA,5,NA
+4,Villa,Bowenpally,"35,000",2000,Semi-Furnished,No Deposit,NA,4,NorthEast facing
+4,Villa,Gachibowli,1.6,5000,Semi-Furnished,No Deposit,NA,4,NA
+5,Villa,Shaikpet,3,5000,Furnished,No Deposit,NA,6,East facing
+5,Villa,Sathamrai Village,"50,000",3500,Semi-Furnished,No Deposit,NA,5,East facing
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,3,East facing
+5,Villa,Narsingi,1.9,5200,Semi-Furnished,No Deposit,NA,6,NA
+4,Villa,Jubilee Hills,1.7,4000,Furnished,No Deposit,NA,4,NA
+4,Villa,Narsingi,1.4,4200,Semi-Furnished,No Deposit,NA,5,East facing
+4,Villa,Kompally,1.6,5000,Semi-Furnished,No Deposit,NA,4,NA
+5,Villa,Banjara Hills,1.8,4700,Semi-Furnished,No Deposit,NA,6,NorthEast facing
+3,Villa,Tellapur,"69,000",2800,Semi-Furnished,No Deposit,NA,3,NorthWest facing
+4,Villa,Kokapet,2.49,4500,Furnished,No Deposit,NA,4,NA
+4,Villa,Serilingampally,3.5,6200,Semi-Furnished,No Deposit,NA,4,West facing
+5,Villa,Tellapur,"80,000",4000,Furnished,No Deposit,NA,5,NA
+3,Villa,Vattinagulapally,"24,000",1980,Semi-Furnished,No Deposit,NA,3,NA
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,4,NA
+4,Villa,Kokapet,2.9,7500,Semi-Furnished,No Deposit,NA,5,NA
+4,Villa,Gachibowli,1.7,4000,Semi-Furnished,No Deposit,NA,4,East facing
+5,Villa,Jubilee Hills,1,5000,Semi-Furnished,No Deposit,NA,5,NA
+4,Villa,Narsingi,1,4600,Semi-Furnished,1 L,availability immediately,4,NA
+4,Villa,Kokapet,1.3,3300,Semi-Furnished,No Deposit,NA,4,East facing
+4,Villa,Sathamrai Village,"40,000",3000,Unfurnished,No Deposit,NA,4,East facing
+5,Villa,Banjara Hills,1.6,4700,Furnished,No Deposit,NA,6,NA
+4,Villa,Kokapet,1.1,4020,Semi-Furnished,No Deposit,NA,5,East facing
+4,Villa,Maheshwaram,"50,000",3350,Furnished,No Deposit,NA,4,East facing
+4,Villa,Kompally,"50,000",3000,Semi-Furnished,1.5 L,availability immediately,3,NA
+4,Villa,Sainikpuri,"47,000",3800,Furnished,No Deposit,NA,4,NorthWest facing
+4,Villa,Gandipet,"45,000",2850,Semi-Furnished,"90,000",availability immediately,5,NA
+6,Villa,Kompally,"40,000",2400,Furnished,No Deposit,NA,4,SouthEast facing
+4,Villa,Kompally,"42,000",2750,Semi-Furnished,"84,000",availability immediately,5,NA
+4,Villa,Miyapur,"55,000",3765,Semi-Furnished,1.1 L,availability immediately,4,NA
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,4,NA
+2,Villa,Medchal,"20,000",1300,Unfurnished,"40,000",availability immediately,2,NA
+4,Villa,Kapra,"20,000",3000,Unfurnished,"50,000",availability immediately,4,NA
+4,Villa,Patancheru,"25,000",2500,Unfurnished,"50,000",availability immediately,4,NA
+2,Villa,Hydershakote,"15,000",1250,Semi-Furnished,"15,000",availability immediately,2,NA
+2,Villa,Mallapur,"13,500",1350,Semi-Furnished,"27,000",availability immediately,2,NA
+3,Villa,Maheshwaram,"35,000",2500,Semi-Furnished,No Deposit,NA,4,NA
+3,Villa,Miyapur,"28,000",2626,Semi-Furnished,No Deposit,NA,3,East facing
+2,Villa,Osman Nagar,"12,000",1650,Unfurnished,"24,000",availability immediately,2,NA
+2,Villa,Shamshabad,"26,000",1494,Furnished,"52,000",availability immediately,3,NA
+3,Villa,Mokila,"40,000",2553,Semi-Furnished,"80,000",NA,3,availability Dec 2023
+5,Villa,Gachibowli,1.5,4800,Semi-Furnished,No Deposit,NA,6,West facing
+3,Villa,Mokila,"30,000",2900,Semi-Furnished,No Deposit,NA,3,NA
+5,Villa,Kollur,"90,000",4200,Semi-Furnished,No Deposit,NA,6,NA
+3,Villa,Kompally,"30,000",1584,Semi-Furnished,"60,000",availability immediately,3,NA
+3,Villa,Mokila,"18,000",2250,Semi-Furnished,"54,000",availability immediately,3,NA
+5,Villa,Kondapur,1.5,7800,Semi-Furnished,No Deposit,availability immediately,5,NA
+3,Villa,Shamshabad,"50,000",2565,Unfurnished,No Deposit,NA,2,West facing
+4,Villa,Mokila,"40,000",3100,Semi-Furnished,No Deposit,NA,4,NA
+3,Villa,Kompally,"40,000",3000,Furnished,No Deposit,NA,4,NA
+3,Villa,Bandlaguda Jagir,"35,600",2000,Furnished,No Deposit,NA,3,NA
+3,Villa,Bachupally,"35,000",1998,Semi-Furnished,"35,000",availability immediately,3,NA
+3,Villa,Nizampet,"35,000",1650,Semi-Furnished,1 L,availability immediately,4,NA
+4,Villa,Gandipet,"35,000",2200,Semi-Furnished,No Deposit,NA,5,NA
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,2,East facing
+5,Villa,Mokila,"30,000",3600,Semi-Furnished,No Deposit,NA,6,West facing
+4,Villa,Chandanagar,"30,000",4000,Semi-Furnished,No Deposit,NA,4,NorthEast facing
+5,Villa,Bolarum,"27,500",1800,Semi-Furnished,No Deposit,NA,5,NA
+3,Villa,Uppal Kalan,"27,000",1600,Furnished,No Deposit,NA,3,NA
+3,Villa,Velmala,"25,000",1783,Semi-Furnished,"50,000",availability immediately,3,NA
+3,Villa,Jubilee Hills,"25,000",5000,Semi-Furnished,No Deposit,NA,2,NA
+4,Villa,Trimalgherry,"23,000",2700,Semi-Furnished,No Deposit,NA,4,East facing
+2,Villa,Nadergul,"6,999",990,Semi-Furnished,"6,999",NA,2,NA
+3,Villa,Jalapalli,"16,000",1000,Semi-Furnished,No Deposit,NA,3,NA
+2,Villa,Aminpur,"10,000",1050,Semi-Furnished,No Deposit,NA,2,NA
+1,Villa,Miyapur,"8,500",597,Unfurnished,No Deposit,NA,1,East facing
+4,Villa,Kukatpally,"74,000",2940,Semi-Furnished,No Deposit,NA,4,NorthEast facing
+4,Villa,Kokapet,1.2,4200,Furnished,No Deposit,NA,4,East facing
+4,Villa,Serilingampally,2.7,6500,Semi-Furnished,No Deposit,NA,1,NA
+3,Villa,Gopanpally,"40,000",1980,Semi-Furnished,No Deposit,NA,3,East facing
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,2,East facing
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,2,East facing
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,2,NA
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,2,NA
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,3,East facing
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,3,East facing
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,2,East facing
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,2,East facing
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,2,East facing
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,2,East facing
+3,Villa,Vattinagulapally,"22,000",1980,Semi-Furnished,No Deposit,NA,3,North facing
+4,Villa,Gachibowli,1.6,4800,Semi-Furnished,No Deposit,NA,4,NA
+4,Villa,Gandipet,1.99,5000,Semi-Furnished,No Deposit,NA,5,West facing
+4,Villa,Gachibowli,2.5,5000,Furnished,No Deposit,NA,4,NA
+4,Villa,Gandipet,4,5500,Semi-Furnished,No Deposit,NA,5,NA
+4,Villa,Nanakramguda,2.75,6500,Semi-Furnished,No Deposit,NA,5,East facing
+4,Villa,Hitech City,1.4,4800,Semi-Furnished,No Deposit,NA,5,NA
+5,Villa,Gachibowli,1.5,5000,Semi-Furnished,No Deposit,NA,6,NA
+4,Villa,Gandipet,2.25,5800,Semi-Furnished,No Deposit,NA,5,North facing
+5,Villa,Nanakramguda,2,5000,Furnished,No Deposit,NA,5,NA
+4,Villa,Madhapur,2.5,5300,Furnished,No Deposit,NA,4,NA
+4,Villa,Hitech City,1.19,3500,Semi-Furnished,No Deposit,NA,5,NA
+4,Villa,Nanakramguda,3.25,5200,Semi-Furnished,No Deposit,NA,5,East facing
+4,Villa,Gachibowli,3,7000,Semi-Furnished,No Deposit,NA,5,NA
+4,Villa,Nanakramguda,3,6000,Semi-Furnished,No Deposit,NA,5,East facing
+4,Villa,Gopanpally,1.3,4000,Semi-Furnished,No Deposit,NA,4,West facing
+3,Villa,Kismatpur,1.5,4600,Furnished,No Deposit,NA,4,East facing
+4,Villa,Nanakramguda,3,5000,Semi-Furnished,No Deposit,NA,6,NA
+6,Villa,Manikonda,1.99,6500,Furnished,No Deposit,NA,8,NA
+4,Villa,Manikonda,1.85,6000,Semi-Furnished,No Deposit,NA,6,NA
+4,Villa,Gopanpally,1,4500,Semi-Furnished,No Deposit,NA,4,NA
+4,Villa,Gachibowli,1.5,4500,Semi-Furnished,No Deposit,NA,6,East facing
+4,Villa,Gandipet,2.25,6600,Semi-Furnished,No Deposit,NA,6,NA
+4,Villa,Gachibowli,1.75,4800,Semi-Furnished,No Deposit,NA,6,NA
+4,Villa,Gachibowli,1.65,4800,Semi-Furnished,No Deposit,NA,6,NA
+4,Villa,Kokapet,1.4,4500,Semi-Furnished,No Deposit,NA,6,NA
+4,Villa,Kokapet,1.7,4500,Semi-Furnished,No Deposit,NA,6,NA
+4,Villa,Kokapet,2.1,5100,Semi-Furnished,No Deposit,NA,6,NA
+4,Villa,Kokapet,2.5,5000,Semi-Furnished,No Deposit,NA,6,NA
+4,Villa,Manikonda,1.85,6000,Semi-Furnished,No Deposit,NA,6,NA
+4,Villa,Gandipet,1.35,3508,Semi-Furnished,No Deposit,NA,6,NA
+4,Villa,Gandipet,1.55,4800,Semi-Furnished,No Deposit,NA,6,NA
+4,Villa,Gandipet,3,6000,Semi-Furnished,No Deposit,NA,5,NA
+4,Villa,Gandipet,2.49,6000,Semi-Furnished,No Deposit,NA,5,NA
+4,Villa,Gandipet,3,5500,Semi-Furnished,No Deposit,NA,5,NA
+4,Villa,Manikonda,1.85,6000,Semi-Furnished,No Deposit,NA,6,NA
+4,Villa,Kokapet,1.7,4500,Semi-Furnished,No Deposit,NA,6,NA
+4,Villa,Kokapet,1.5,4600,Semi-Furnished,No Deposit,NA,4,NA
+4,Villa,Nanakramguda,3.2,5500,Furnished,No Deposit,NA,6,NA
+3,Villa,Kismatpur,"85,000",4000,Semi-Furnished,No Deposit,NA,5,NA
+4,Villa,Tellapur,"55,000",3700,Semi-Furnished,No Deposit,NA,4,NA
+5,Villa,Tellapur,1,4000,Semi-Furnished,No Deposit,NA,5,NA
+4,Villa,Mokila,"40,000",3000,Semi-Furnished,No Deposit,NA,4,East facing
+3,Villa,Kompally,"40,000",3000,Furnished,No Deposit,NA,4,NA
+3,Villa,Kompally,"40,000",3000,Furnished,No Deposit,NA,5,NA
+3,Villa,Kompally,"40,000",3000,Furnished,No Deposit,NA,5,NA
+3,Villa,Kompally,"40,000",3000,Furnished,No Deposit,NA,4,NA
+5,Villa,Kompally,"45,000",2700,Furnished,No Deposit,NA,NA,NA
+5,Villa,Kompally,"45,000",2700,Furnished,No Deposit,NA,NA,NA

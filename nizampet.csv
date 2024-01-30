@@ -1,0 +1,87 @@
+BHK,Type,Location,Price,Sqft,Status,Deposit,Availability,Bathrooms,Facing
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,4,NA
+3,Apartment,Nizampet,"28,000",1500,Semi-Furnished,No Deposit,NA,3,East facing
+4,Apartment,Nizampet,"40,000",2600,Semi-Furnished,No Deposit,NA,4,NA
+1,Apartment,Nizampet,"17,400",1200,Semi-Furnished,No Deposit,NA,2,NA
+3,Apartment,Nizampet,"70,000",2800,Furnished,No Deposit,NA,3,North facing
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,3,East facing
+2,Apartment,Nizampet,"10,000",980,Unfurnished,No Deposit,NA,2,NA
+3,Apartment,Nizampet,"30,000",1400,Semi-Furnished,No Deposit,NA,3,NA
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,4,NA
+2,Apartment,Nizampet,"30,000",1245,Semi-Furnished,No Deposit,NA,2,NA
+3,Apartment,Nizampet,"20,000",1395,Unfurnished,No Deposit,NA,6,East facing
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,4,NA
+3,Apartment,Nizampet,"13,000",1470,Semi-Furnished,No Deposit,NA,3,East facing
+2,Apartment,Nizampet,"14,000",1150,Furnished,No Deposit,NA,2,North facing
+2,Apartment,Nizampet,"18,000",1140,Furnished,No Deposit,NA,2,NorthEast facing
+3,Apartment,Nizampet,"14,000",1700,Unfurnished,No Deposit,NA,2,East facing
+3,Independent Floor,Nizampet,"22,000",1530,Furnished,No Deposit,NA,3,NA
+2,Apartment,Nizampet,"11,000",900,Semi-Furnished,No Deposit,NA,2,NA
+3,Apartment,Nizampet,"17,000",1400,Semi-Furnished,No Deposit,NA,2,NA
+2,Apartment,Nizampet,"14,500",1153,Furnished,No Deposit,NA,3,NorthEast facing
+3,Apartment,Nizampet,"16,000",1675,Semi-Furnished,No Deposit,NA,3,NA
+3,Apartment,Nizampet,"16,000",1350,Unfurnished,No Deposit,NA,3,NA
+2,Apartment,Nizampet,"12,500",1000,Semi-Furnished,No Deposit,NA,2,NA
+3,Apartment,Nizampet,"13,500",1661,Unfurnished,No Deposit,NA,2,East facing
+2,Independent Floor,Nizampet,"15,000",1400,Semi-Furnished,No Deposit,NA,2,NA
+2,Apartment,Nizampet,"12,000",1130,Semi-Furnished,"22,000",availability immediately,2,NA
+2,Apartment,Nizampet,"18,000",1150,Furnished,No Deposit,NA,2,NA
+2,Apartment,Nizampet,"12,000",1200,Semi-Furnished,No Deposit,NA,2,NA
+2,Apartment,Nizampet,"12,500",1175,Unfurnished,No Deposit,NA,2,NA
+5,Independent House,Nizampet,"25,000",3000,Semi-Furnished,No Deposit,NA,5,NA
+3,Independent House,Nizampet,"25,000",1800,Furnished,No Deposit,NA,3,NorthEast facing
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,2,East facing
+3,Independent Floor,Nizampet,"22,000",1530,Furnished,No Deposit,NA,3,NA
+2,Apartment,Nizampet,"11,000",900,Semi-Furnished,No Deposit,NA,2,NA
+2,Independent House,Nizampet,"15,000",1400,Semi-Furnished,No Deposit,NA,2,NA
+3,Villa,Nizampet,"35,000",1650,Semi-Furnished,1 L,availability immediately,4,NA
+3,Independent Floor,Nizampet,"22,000",1530,Furnished,No Deposit,NA,3,NA
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,2,East facing
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,2,East facing
+3,Independent Floor,Nizampet,"22,000",1530,Furnished,No Deposit,NA,3,NA
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,2,NA
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,2,NA
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,3,East facing
+3,Independent Floor,Nizampet,"22,000",1530,Furnished,No Deposit,NA,3,NA
+3,Independent Floor,Nizampet,"22,000",1530,Furnished,No Deposit,NA,3,NA
+3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,NA,1,NA
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,3,East facing
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,2,East facing
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,2,East facing
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,2,East facing
+4,Villa,Nizampet,"30,000",2400,Unfurnished,No Deposit,NA,2,East facing
+3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,NA,1,NA
+3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,NA,1,NA
+3,Independent Floor,Nizampet,"22,000",1530,Furnished,No Deposit,NA,3,East facing
+3,Independent Floor,Nizampet,"22,000",1530,Furnished,No Deposit,NA,3,East facing
+3,Independent Floor,Nizampet,"22,000",1530,Furnished,No Deposit,NA,3,NA
+3,Independent Floor,Nizampet,"22,000",1530,Furnished,No Deposit,NA,3,NA
+1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,NA,1,NorthEast facing
+1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,NA,1,NorthEast facing
+1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,NA,1,NorthEast facing
+1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,NA,1,NorthEast facing
+1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,NA,1,NorthEast facing
+1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,NA,1,NorthEast facing
+1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,NA,1,NorthEast facing
+1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,NA,1,NorthEast facing
+1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,NA,1,NorthEast facing
+1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,NA,1,NorthEast facing
+1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,NA,1,NorthEast facing
+1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,NA,1,NorthEast facing
+1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,NA,1,NorthEast facing
+1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,NA,1,NorthEast facing
+1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,NA,1,NorthEast facing
+1,Apartment,Nizampet,"6,000",600,Furnished,No Deposit,NA,1,NorthEast facing
+3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,NA,1,NA
+3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,NA,1,NA
+3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,NA,1,NA
+3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,NA,1,NA
+3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,NA,1,NA
+3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,NA,1,NA
+3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,NA,1,NA
+3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,NA,1,NA
+3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,NA,1,NA
+3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,NA,1,NA
+3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,NA,1,NA
+3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,NA,1,NA
+3,Independent Floor,Nizampet,"5,000",700,Furnished,No Deposit,NA,1,NA

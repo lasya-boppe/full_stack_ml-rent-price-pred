@@ -1,0 +1,301 @@
+BHK,Type,Location,Price,Sqft,Status,Deposit,Availability,Bathrooms
+1,Apartment,Gachibowli,"22,000",600,Furnished,"22,000",availability immediately,1
+3,Apartment,Himayat Nagar,"32,000",1950,Furnished,1 L,availability immediately,3
+2,Apartment,Nanakramguda,"38,000",1222,Semi-Furnished,"76,000",availability immediately,2
+3,Apartment,Manikonda,"55,000",1905,Semi-Furnished,1.1 L,availability immediately,3
+2,Apartment,Gachibowli,"32,000",1342,Semi-Furnished,"64,000",availability immediately,2
+3,Apartment,Tellapur,"35,000",1900,Unfurnished,"70,000",availability immediately,3
+4,Apartment,Bandlaguda Jagir,"30,000",2000,Furnished,"90,000",availability immediately,4
+2,Apartment,Bowenpally,"24,985",1315,Furnished,"50,000",availability immediately,2
+3,Apartment,Shamshabad,"45,000",2050,Semi-Furnished,1.5 L,availability immediately,3
+3,Apartment,Uppal Kalan,"27,000",1576,Semi-Furnished,"75,000",availability immediately,2
+3,Apartment,Himayat Nagar,"31,000",1800,Semi-Furnished,"90,000",availability immediately,3
+2,Independent House,Sai Gardens,"24,000",2200,Semi-Furnished,"74,000",availability immediately,2
+4,Villa,Kompally,"42,000",2750,Semi-Furnished,"84,000",availability immediately,5
+2,Independent House,Kukatpally,"25,000",1000,Furnished,"80,000",availability immediately,2
+1,Independent House,Puppalaguda,"19,000",1200,Furnished,"45,000",availability immediately,1
+2,Apartment,Narsingi,"30,000",1400,Furnished,"60,000",availability immediately,2
+3,Apartment,Kushaiguda,"30,000",1580,Semi-Furnished,"60,000",availability immediately,3
+3,Apartment,Osman Nagar,"27,000",1545,Furnished,"81,000",availability immediately,3
+2,Villa,Medchal,"20,000",1300,Unfurnished,"40,000",availability immediately,2
+4,Villa,Kapra,"20,000",3000,Unfurnished,"50,000",availability immediately,4
+1,Apartment,Rajendra Nagar,"18,000",400,Furnished,No Deposit,availability immediately,1
+4,Villa,Kapra,"20,000",3000,Unfurnished,"50,000",availability immediately,4
+4,Villa,Gandipet,"45,000",2850,Semi-Furnished,"90,000",availability immediately,5
+2,Independent House,Kukatpally,"25,000",1000,Furnished,"80,000",availability immediately,2
+3,Apartment,Kompally,"22,000",1836,Semi-Furnished,1 L,availability immediately,3
+2,Apartment,LB Nagar,"22,000",1168,Semi-Furnished,"22,000",availability immediately,2
+3,Apartment,Rajendra Nagar,"45,000",1047,Furnished,1 L,availability immediately,3
+3,Apartment,Shankarpalli,"20,000",2300,Semi-Furnished,1 L,availability immediately,4
+3,Independent House,Vanasthalipuram,"35,000",2000,Semi-Furnished,1.05 L,availability immediately,3
+1,Independent House,Sikh Village,"18,000",800,Furnished,"36,000",availability immediately,1
+2,Villa,Medchal,"20,000",1300,Unfurnished,"40,000",availability immediately,2
+2,Independent House,Chandanagar,"25,000",2200,Semi-Furnished,"50,000",availability immediately,3
+4,Villa,Kompally,"50,000",3000,Semi-Furnished,1.5 L,availability immediately,3
+2,Apartment,Kompally,"16,000",1175,Semi-Furnished,"48,000",availability immediately,2
+3,Apartment,Bachupally,"16,000",1300,Furnished,"32,000",availability immediately,2
+3,Apartment,Nallagandla Gachibowli,"39,999",1560,Semi-Furnished,"39,999",availability immediately,2
+2,Penthouse,Chandanagar,"15,000",1100,Semi-Furnished,"50,000",availability immediately,2
+3,Independent House,Stella Nagaram,"15,000",1800,Semi-Furnished,"30,000",availability immediately,2
+2,Villa,Hydershakote,"15,000",1250,Semi-Furnished,"15,000",availability immediately,2
+2,Independent House,Nagole Bandlaguda Road,"14,250",1100,Semi-Furnished,"42,000",availability immediately,2
+4,Apartment,chandrayangutta,"16,000",1557,Unfurnished,"50,000",availability immediately,4
+4,Villa,Patancheru,"25,000",2500,Unfurnished,"50,000",availability immediately,4
+2,Villa,Mallapur,"13,500",1350,Semi-Furnished,"27,000",availability immediately,2
+,,Trimalgherry,"14,000",1000,Semi-Furnished,"20,000",availability immediately,1
+1,Apartment,Kondapur,"25,000",600,Furnished,"25,000",availability immediately,1
+3,Apartment,Kompally,"15,000",1420,Semi-Furnished,"28,000",availability immediately,3
+1,Penthouse,Vijay Nagar Colony Road,"13,000",1000,Semi-Furnished,"26,000",availability immediately,1
+1,Apartment,Anjaiah Nagar,"17,000",502,Furnished,"17,000",availability immediately,1
+2,Apartment,Malakpet,"12,000",900,Unfurnished,"24,000",availability immediately,2
+2,Apartment,Attapur,"12,000",1200,Semi-Furnished,"24,000",availability immediately,2
+2,Apartment,Saroor Nagar,"11,000",1205,Semi-Furnished,"22,000",availability immediately,2
+2,Independent House,Muthangi,"10,000",1530,Unfurnished,"20,000",availability immediately,2
+3,Apartment,Sainikpuri,"20,000",1200,Semi-Furnished,"40,000",availability immediately,3
+2,Villa,Shamshabad,"26,000",1494,Furnished,"52,000",availability immediately,3
+2,Apartment,Kondapur,"19,500",1250,Semi-Furnished,No Deposit,availability immediately,2
+2,Villa,Osman Nagar,"12,000",1650,Unfurnished,"24,000",availability immediately,2
+4,Villa,Miyapur,"55,000",3765,Semi-Furnished,1.1 L,availability immediately,4
+2,Apartment,Kowkur,"9,000",900,Unfurnished,"3,000",availability immediately,2
+3,Apartment,Nallagandla Gachibowli,"60,000",1875,Semi-Furnished,1.2 L,availability immediately,3
+3,Apartment,Kondapur,"35,000",2250,Semi-Furnished,"70,000",availability immediately,3
+2,Independent House,Balapur,"9,000",400,Unfurnished,"30,000",availability immediately,2
+2,Independent House,Peerzadiguda,"9,000",1000,Semi-Furnished,"18,000",availability immediately,2
+2,Apartment,Boduppal,"13,000",1180,Unfurnished,"40,000",availability immediately,2
+3,Apartment,Gundlapochampally,"24,000",1543,Semi-Furnished,"48,000",availability immediately,2
+3,Apartment,Attapur,"23,000",1900,Semi-Furnished,"46,000",availability immediately,3
+2,Apartment,Yapral,"15,000",1199,Semi-Furnished,"30,000",availability immediately,2
+2,Independent House,Subhash Nagar,"18,000",1300,Semi-Furnished,"45,000",availability immediately,2
+1,Independent House,Mallampet,"7,000",700,Unfurnished,"14,000",availability immediately,1
+1,Independent House,Golnaka,"7,000",900,Unfurnished,"14,000",availability immediately,1
+3,Apartment,Wadi E Mahmood,"15,000",1050,Unfurnished,1 L,availability immediately,2
+3,Apartment,Saleem Nagar Colony Malakpet Extension,"13,000",2100,Unfurnished,"25,000",availability immediately,2
+3,Apartment,Banjara Hills,"35,000",1900,Unfurnished,"70,000",availability immediately,3
+3,Independent House,East Prasanth Nagar,"24,000",1620,Semi-Furnished,"48,000",availability immediately,3
+2,Apartment,Banjara Hills,"16,000",1000,Semi-Furnished,"32,000",availability immediately,2
+3,Apartment,Domalguda,"30,000",1800,Semi-Furnished,"90,000",availability immediately,3
+2,Apartment,Begumpet,"14,000",1200,Furnished,"14,000",availability immediately,2
+2,Independent House,Amba Gardens,"24,000",2200,Semi-Furnished,No Deposit,availability immediately,2
+3,Apartment,Sun City,"18,000",1560,Semi-Furnished,"54,000",availability immediately,4
+3,Villa,Kompally,"30,000",1584,Semi-Furnished,"60,000",availability immediately,3
+3,Apartment,Trimalgherry,"32,000",2300,Semi-Furnished,1 L,availability immediately,3
+3,Apartment,Tilak Nagar,"25,000",1150,Unfurnished,"25,000",availability immediately,3
+3,Apartment,Nallagandla Gachibowli,"45,000",1685,Semi-Furnished,1.35 L,availability immediately,3
+2,Independent House,Suraksha Colony,"14,500",1500,Unfurnished,"29,000",availability immediately,2
+2,Apartment,Hyder Nagar,"19,040",1190,Unfurnished,"40,000",availability immediately,2
+3,Villa,Mokila,"18,000",2250,Semi-Furnished,"54,000",availability immediately,3
+2,Apartment,Bowenpally,"25,000",1315,Furnished,"50,000",availability immediately,2
+1,Apartment,Rajendra Nagar,"18,000",400,Semi-Furnished,"36,000",availability immediately,1
+2,Apartment,Nallagandla Gachibowli,"24,000",1140,Furnished,"80,000",availability immediately,2
+2,Independent House,Narepally,"12,000",1500,Semi-Furnished,"24,000",availability immediately,2
+4,Villa,Narsingi,1,4600,Semi-Furnished,1 L,availability immediately,4
+1,Apartment,Kondapur,"24,000",600,Furnished,"24,000",availability immediately,1
+1,Independent House,Vidyanagar Adikmet,"8,000",680,Unfurnished,"16,000",availability immediately,1
+5,Independent House,Jubilee Hills,2.4,4500,Semi-Furnished,9.6 L,availability immediately,9
+4,Apartment,Kismatpur,"94,000",5200,Semi-Furnished,1.88 L,availability immediately,5
+2,Apartment,BK Guda Internal Road,"16,000",1100,Semi-Furnished,"16,000",availability immediately,2
+3,Apartment,Rajendra Nagar,"45,000",1400,Furnished,"80,000",availability immediately,3
+2,Apartment,Yapral,"12,000",1053,Semi-Furnished,"24,000",availability immediately,2
+3,Apartment,Gachibowli,"50,000",1492,Semi-Furnished,1.2 L,availability immediately,2
+1,Penthouse,Chikkadapally,"10,000",500,Unfurnished,"20,000",availability immediately,1
+2,Apartment,Meerpet,"8,000",1000,Semi-Furnished,"16,000",availability immediately,2
+1,Apartment,Kondapur,"24,000",600,Furnished,"24,000",availability immediately,1
+1,Apartment,Kondapur,"25,000",600,Furnished,"25,000",availability immediately,1
+1,Apartment,Kondapur,"18,000",600,Semi-Furnished,"18,000",availability immediately,1
+1,Apartment,Kondapur,"24,000",600,Furnished,"24,000",availability immediately,1
+1,Apartment,Kondapur,"24,000",600,Furnished,"24,000",availability immediately,1
+4,Apartment,Nanakramguda,"85,000",3150,Semi-Furnished,2.25 L,availability immediately,3
+3,Apartment,Madhapur,1.7,2680,Semi-Furnished,5 L,availability immediately,3
+4,Apartment,Manikonda,"85,000",2600,Semi-Furnished,2.5 L,availability immediately,4
+3,Apartment,Shaikpet,"56,000",2190,Semi-Furnished,1.12 L,availability immediately,3
+3,Apartment,Hitech City,"65,000",2600,Semi-Furnished,1.3 L,availability immediately,3
+3,Apartment,Gachibowli,"60,000",2160,Semi-Furnished,1.2 L,availability immediately,3
+3,Apartment,Hitech City,"65,000",2600,Semi-Furnished,1.3 L,availability immediately,3
+3,Apartment,Whitefield,"65,000",2600,Furnished,2 L,availability immediately,3
+4,Apartment,Hitech City,"85,000",3600,Semi-Furnished,1.7 L,availability immediately,4
+2,Apartment,Gachibowli,"50,000",1410,Semi-Furnished,1 L,availability immediately,2
+2,Apartment,Gachibowli,"45,000",1275,Semi-Furnished,"90,000",availability immediately,2
+3,Apartment,Kokapet,"60,000",2235,Semi-Furnished,1.2 L,availability immediately,3
+4,Apartment,Gachibowli,"95,000",2708,Furnished,3 L,availability immediately,4
+3,Apartment,Nanakramguda,"75,000",2360,Semi-Furnished,2.25 L,availability immediately,3
+3,Apartment,Kondapur,"80,000",2020,Semi-Furnished,2.4 L,availability immediately,3
+2,Apartment,Gachibowli,"45,000",1115,Furnished,"90,000",availability immediately,2
+3,Apartment,Madhapur,1.75,2680,Semi-Furnished,3.5 L,availability immediately,3
+3,Apartment,Nanakramguda,"75,000",2630,Semi-Furnished,1.5 L,availability immediately,3
+2,Apartment,Manikonda,"40,000",1314,Semi-Furnished,"80,000",availability immediately,2
+3,Apartment,Kokapet,"65,000",2235,Semi-Furnished,1.3 L,availability immediately,3
+3,Apartment,Gachibowli,"60,000",1742,Semi-Furnished,1.2 L,availability immediately,3
+2,Apartment,Gachibowli,"50,000",1410,Semi-Furnished,1 L,availability immediately,2
+3,Apartment,Gachibowli,"65,000",2160,Semi-Furnished,1.3 L,availability immediately,3
+2,Apartment,Manikonda,"40,000",1314,Semi-Furnished,"80,000",availability immediately,2
+3,Apartment,Shaikpet,"60,000",2190,Semi-Furnished,1.2 L,availability immediately,3
+3,Apartment,Gachibowli,"90,000",2780,Semi-Furnished,2.7 L,availability immediately,3
+3,Apartment,Gachibowli,"70,000",1742,Furnished,2 L,availability immediately,3
+3,Apartment,Manikonda,"70,000",1834,Furnished,2 L,availability immediately,3
+2,Apartment,Kukatpally,"45,000",1450,Semi-Furnished,"90,000",availability immediately,2
+3,Apartment,Manikonda,"50,000",1834,Semi-Furnished,1 L,availability immediately,3
+2,Apartment,Manikonda,"40,000",1314,Semi-Furnished,"80,000",availability immediately,2
+2,Apartment,Gachibowli,"45,000",1283,Semi-Furnished,"90,000",availability immediately,2
+3,Apartment,Hitech City,"75,000",2100,Furnished,1.5 L,availability immediately,3
+3,Apartment,Gachibowli,"65,000",1500,Furnished,1.3 L,availability immediately,2
+2,Apartment,Hitech City,"22,000",1252,Semi-Furnished,"44,000",availability immediately,2
+2,Apartment,Gachibowli,"45,000",1283,Semi-Furnished,"90,000",availability immediately,2
+3,Apartment,Kondapur,"55,000",1490,Semi-Furnished,1.1 L,availability immediately,2
+4,Apartment,Hitech City,"70,000",2790,Semi-Furnished,1.4 L,availability immediately,3
+3,Apartment,Madhapur,1.6,2680,Semi-Furnished,4.8 L,availability immediately,3
+2,Apartment,Gachibowli,"40,000",1283,Semi-Furnished,"80,000",availability immediately,2
+4,Apartment,Hitech City,1.6,4761,Semi-Furnished,10 L,availability immediately,4
+3,Apartment,Gachibowli,"55,000",2160,Semi-Furnished,1.1 L,availability immediately,3
+4,Apartment,Hitech City,1.6,4761,Semi-Furnished,5 L,availability immediately,4
+2,Apartment,Himayat Nagar,"22,000",1150,Semi-Furnished,"66,000",availability immediately,2
+2,Apartment,Himayat Nagar,"24,000",1200,Semi-Furnished,"75,000",availability immediately,2
+3,Apartment,Kokapet,"60,000",2170,Furnished,1.8 L,availability immediately,3
+3,Apartment,Hitech City,"36,000",1580,Semi-Furnished,"72,000",availability immediately,3
+2,Apartment,Manikonda,"38,000",1314,Semi-Furnished,"76,000",availability immediately,2
+2,Apartment,Gachibowli,"36,000",1275,Semi-Furnished,"72,000",availability immediately,2
+3,Apartment,Gachibowli,"52,000",2160,Semi-Furnished,1.04 L,availability immediately,3
+2,Apartment,Narayanguda,"32,000",1350,Semi-Furnished,1 L,availability immediately,2
+2,Apartment,Himayat Nagar,"22,000",1250,Furnished,"66,000",availability immediately,2
+3,Apartment,Gachibowli,"65,000",2160,Semi-Furnished,1.3 L,availability immediately,3
+1,Apartment,Madhapur,"10,000",550,Semi-Furnished,"20,000",availability immediately,1
+2,Apartment,Appa Junction Peerancheru,"9,000",920,Unfurnished,"9,000",availability immediately,2
+1,Apartment,Chiragali Lane,"12,700",1200,Semi-Furnished,"50,000",availability immediately,1
+3,Apartment,Gachibowli,"65,000",1890,Furnished,1.3 L,availability immediately,3
+3,Apartment,Madhapur,"45,000",1770,Semi-Furnished,"90,000",availability immediately,3
+3,Apartment,Hitech City,"36,000",1580,Semi-Furnished,"72,000",availability immediately,3
+2,Apartment,Gachibowli,"37,000",1275,Semi-Furnished,"74,000",availability immediately,2
+3,Apartment,Gachibowli,"50,000",2160,Semi-Furnished,1 L,availability immediately,3
+3,Apartment,Gachibowli,"60,000",1740,Furnished,1.8 L,availability immediately,3
+3,Apartment,Kokapet,"63,000",2000,Semi-Furnished,1.12 L,availability immediately,3
+2,Apartment,Tilak Nagar,"12,000",1000,Unfurnished,"24,000",availability immediately,2
+2,Apartment,Shivam Road Amberpet,"16,000",1150,Unfurnished,"32,000",availability immediately,2
+3,Apartment,Himayatnagar,"45,000",1800,Furnished,1.35 L,availability immediately,3
+3,Apartment,Madhapur,2,3430,Semi-Furnished,8 L,availability immediately,4
+3,Apartment,Nanakramguda,1.5,2525,Semi-Furnished,6 L,availability immediately,3
+2,Apartment,Kushaiguda,"12,000",1010,Semi-Furnished,"24,000",availability immediately,2
+1,Independent House,Sun City,"12,000",750,Semi-Furnished,"36,000",availability immediately,2
+2,Apartment,Kompally,"20,400",1200,Unfurnished,"42,000",availability immediately,2
+2,Apartment,Hyder Nagar,"21,780",1210,Unfurnished,"45,000",availability immediately,2
+2,Apartment,Kukatpally,"9,360",780,Unfurnished,No Deposit,availability immediately,2
+2,Apartment,Hyder Nagar,"19,200",1200,Unfurnished,"45,000",availability immediately,2
+2,Apartment,Gajulramaram Kukatpally,"15,400",1100,Unfurnished,"48,000",availability immediately,2
+2,Apartment,Gajulramaram Kukatpally,"15,400",1100,Unfurnished,"48,000",availability immediately,2
+3,Independent House,Jubilee Hills,2.5,3800,Unfurnished,15 L,availability immediately,1
+3,Apartment,Banjara Hills Road Number 12,"65,000",3000,Furnished,1.3 L,availability immediately,3
+2,Apartment,Yousufguda,"11,500",1120,Semi-Furnished,"11,500",availability immediately,2
+3,Apartment,Nagole,"15,500",1365,Semi-Furnished,"31,000",availability immediately,2
+3,Apartment,Kokapet,"40,000",1535,Semi-Furnished,"80,000",availability immediately,3
+2,Apartment,Vali Colony,"12,000",1320,Semi-Furnished,"12,000",availability immediately,2
+2,Apartment,Hafeezpet,"20,000",1240,Semi-Furnished,"50,000",availability immediately,2
+3,Independent House,Saroor Nagar,"17,000",1750,Semi-Furnished,"34,000",availability immediately,3
+3,Apartment,Nanakramguda,"85,000",2450,Furnished,2.55 L,availability immediately,3
+2,Apartment,Chaderghat,"13,000",1150,Semi-Furnished,"30,000",availability immediately,2
+3,Apartment,Neknampur,"20,000",1250,Semi-Furnished,"50,000",availability immediately,2
+2,Apartment,Banjara Hills,"30,000",1600,Semi-Furnished,"60,000",availability immediately,2
+3,Apartment,Banjara Hills,"40,000",2000,Semi-Furnished,"80,000",availability immediately,3
+4,Independent House,Banjara Hills,"75,000",3600,Semi-Furnished,2.25 L,availability immediately,4
+2,Apartment,Kothaguda,"16,000",1250,Semi-Furnished,"32,000",availability immediately,2
+3,Apartment,Banjara Hills Road Number 12,"55,000",2200,Furnished,2.1 L,availability immediately,3
+3,Apartment,Banjara Hills Road Number 10,"43,000",1900,Furnished,1.72 L,availability immediately,3
+,,Banjara Hills,"8,000",600,Furnished,"3,000",availability immediately,1
+3,Independent House,Banjara Hills Road Number 12,"50,000",2500,Semi-Furnished,1.5 L,availability immediately,3
+4,Independent House,Banjara Hills Main Road,1.3,3600,Semi-Furnished,3.9 L,availability immediately,4
+3,Apartment,Banjara Hills Main Road,"40,000",2200,Semi-Furnished,1.2 L,availability immediately,3
+1,Apartment,Kondapur,"11,000",550,Semi-Furnished,"22,000",availability immediately,1
+2,Apartment,sriram nagar kondapur,"19,000",1100,Semi-Furnished,"40,000",availability immediately,2
+3,Apartment,Banjara Hills,"35,000",1900,Furnished,1.05 L,availability immediately,3
+2,Apartment,Basheer Bagh,"23,000",1200,Furnished,"69,000",availability immediately,2
+3,Apartment,Himayat Nagar,"36,000",1900,Semi-Furnished,1 L,availability immediately,3
+3,Apartment,Himayat Nagar,"43,000",1700,Furnished,1.3 L,availability immediately,3
+3,Apartment,Adarsh Nagar,"50,000",3200,Semi-Furnished,1.5 L,availability immediately,3
+4,Apartment,Gachibowli,"85,000",2713,Semi-Furnished,2.55 L,availability immediately,4
+3,Apartment,Hitech City,"41,000",1726,Furnished,"82,000",availability immediately,3
+1,Apartment,Kukatpally,"7,200",450,Unfurnished,No Deposit,availability immediately,3
+3,Apartment,Manikonda,"39,999",1384,Furnished,"39,999",availability immediately,3
+3,Apartment,Kukatpally,"43,000",1672,Furnished,"86,000",availability immediately,2
+1,Apartment,Ameerpet,"7,500",690,Semi-Furnished,"7,500",availability immediately,1
+2,Apartment,Ameerpet,"14,000",1110,Semi-Furnished,"14,000",availability immediately,2
+1,Apartment,Yousufguda,"7,000",670,Semi-Furnished,"7,000",availability immediately,1
+3,Apartment,Madhapur,"85,000",2625,Semi-Furnished,2.5 L,availability immediately,4
+4,Apartment,Hitech City,1,3000,Semi-Furnished,3 L,availability immediately,4
+3,Apartment,Madhapur,"42,000",1634,Semi-Furnished,"84,000",availability immediately,3
+3,Apartment,Gachibowli,"85,000",2780,Semi-Furnished,1.7 L,availability immediately,3
+4,Apartment,Hitech City,1.2,4761,Semi-Furnished,3.6 L,availability immediately,7
+3,Apartment,Nanakramguda,"50,000",1740,Semi-Furnished,1.5 L,availability immediately,3
+3,Apartment,Gachibowli,"80,000",2780,Semi-Furnished,2.4 L,availability immediately,3
+3,Apartment,Gachibowli,"55,000",1835,Semi-Furnished,1.1 L,availability immediately,3
+3,Apartment,Madhapur,"60,000",2310,Semi-Furnished,1.8 L,availability immediately,3
+4,Apartment,Madhapur,1.6,4070,Semi-Furnished,5 L,availability immediately,5
+2,Apartment,Madhapur,"32,000",1222,Semi-Furnished,"64,000",availability immediately,2
+3,Apartment,Madhapur,"40,000",2033,Semi-Furnished,"80,000",availability immediately,3
+3,Apartment,Madhapur,1.3,3430,Semi-Furnished,4 L,availability immediately,4
+4,Apartment,Madhapur,1.5,4770,Semi-Furnished,4.5 L,availability immediately,5
+3,Apartment,Kondapur,"55,000",1490,Semi-Furnished,1.1 L,availability immediately,2
+2,Apartment,Madhapur,"40,000",1222,Furnished,1.2 L,availability immediately,2
+1,Independent House,Begumpet,"9,000",550,Semi-Furnished,"9,000",availability immediately,1
+2,Apartment,Kukatpally,"25,000",1200,Furnished,"50,000",availability immediately,2
+2,Independent House,Rampally,"7,000",850,Semi-Furnished,"21,000",availability immediately,2
+2,Independent House,Peerzadiguda,"10,000",1200,Furnished,"10,000",availability immediately,2
+3,Apartment,KPR Colony,"18,000",1425,Semi-Furnished,"36,000",availability immediately,2
+2,Apartment,Madinaguda,"14,000",1115,Semi-Furnished,"28,000",availability immediately,2
+2,Independent House,Banjara Hills,"25,000",1200,Semi-Furnished,"75,000",availability immediately,2
+4,Independent House,Dilsukh Nagar,"35,000",3500,Semi-Furnished,"70,000",availability immediately,4
+3,Independent House,Bolarum to Kompally Road,"20,000",2200,Semi-Furnished,"40,000",availability immediately,3
+4,Apartment,Troop Bazaar,"6,000",1000,Semi-Furnished,"6,000",availability immediately,2
+3,Apartment,Chinthal,"12,500",1100,Semi-Furnished,"25,000",availability immediately,3
+2,Apartment,Sun City,"12,000",800,Unfurnished,"24,000",availability immediately,2
+2,Independent House,Bairagiguda,"13,000",1300,Semi-Furnished,"26,000",availability immediately,2
+3,Apartment,Madhapur,"28,000",1690,Semi-Furnished,"56,000",availability immediately,3
+1,Apartment,West Marredpally,"5,000",255,Semi-Furnished,"1,000",availability immediately,1
+3,Apartment,Manikonda,"24,000",1725,Semi-Furnished,"48,000",availability immediately,3
+3,Apartment,Saidabad Colony Road,"20,000",1400,Semi-Furnished,"60,000",availability immediately,2
+4,Apartment,Bapu Bagh Colony Road,"60,000",2600,Furnished,1.5 L,availability immediately,5
+3,Apartment,Chinthal,"13,500",1380,Semi-Furnished,"27,000",availability immediately,2
+3,Apartment,Kompally,"25,000",1725,Semi-Furnished,"50,000",availability immediately,3
+2,Apartment,Netaji Nagar Colony,"10,000",800,Unfurnished,"24,000",availability immediately,2
+3,Apartment,AS Rao Nagar,"12,000",1800,Unfurnished,"24,000",availability immediately,3
+3,Apartment,AS Rao Nagar,"15,000",1800,Unfurnished,"30,000",availability immediately,3
+3,Villa,Bachupally,"35,000",1998,Semi-Furnished,"35,000",availability immediately,3
+3,Apartment,Hitech City,"25,000",1900,Semi-Furnished,"50,000",availability immediately,3
+3,Apartment,Malakpet,"20,000",1300,Unfurnished,"40,000",availability immediately,2
+3,Apartment,Manikonda,"40,000",1854,Semi-Furnished,"80,000",availability immediately,3
+2,Apartment,Alkapur township,"30,000",1260,Furnished,"60,000",availability immediately,2
+3,Villa,Velmala,"25,000",1783,Semi-Furnished,"50,000",availability immediately,3
+3,Independent House,chandrayangutta,"15,000",1500,Unfurnished,"50,000",availability immediately,3
+2,Apartment,Ramkote,"25,000",1100,Furnished,"75,000",availability immediately,2
+2,Apartment,Quthbullapur,"29,000",1100,Furnished,"58,000",availability immediately,2
+2,Apartment,Serilingampally,"25,000",1400,Semi-Furnished,"75,000",availability immediately,2
+3,Apartment,Nallagandla Gachibowli,"25,000",1525,Semi-Furnished,"75,000",availability immediately,3
+3,Apartment,silpa park,"27,000",1900,Semi-Furnished,"60,000",availability immediately,3
+2,Apartment,Nallagandla Gachibowli,"23,000",1400,Semi-Furnished,"92,000",availability immediately,2
+2,Apartment,Banjara Hills Road Number 12,"12,000",1000,Semi-Furnished,"24,000",availability immediately,2
+2,Apartment,Yapral,"14,500",1260,Semi-Furnished,"29,000",availability immediately,2
+3,Apartment,Hitech City,"50,000",1990,Furnished,1 L,availability immediately,3
+3,Apartment,Kukatpally,"28,000",2000,Semi-Furnished,"54,000",availability immediately,3
+3,Apartment,Manikonda,"22,000",1830,Unfurnished,2.2 L,availability immediately,3
+2,Apartment,Kukatpally,"16,000",1000,Semi-Furnished,1.6 L,availability immediately,2
+2,Independent House,Chinthal Quthbullapur,"10,000",1100,Unfurnished,"20,000",availability immediately,2
+1,Apartment,Kondapur,"10,000",500,Unfurnished,"10,000",availability immediately,1
+2,Apartment,Trimalgherry,"9,000",790,Semi-Furnished,"27,000",availability immediately,2
+2,Independent House,raidurgam,"18,000",2000,Unfurnished,"40,000",availability immediately,2
+2,Independent House,Nadergul,"20,000",1215,Unfurnished,"40,000",availability immediately,2
+3,Independent House,Medchal,"15,000",1800,Unfurnished,"15,000",availability immediately,3
+3,Apartment,Rai Durg,"28,000",1650,Semi-Furnished,"50,000",availability immediately,3
+3,Villa,Nizampet,"35,000",1650,Semi-Furnished,1 L,availability immediately,4
+3,Apartment,Miyapur,"23,000",1511,Furnished,"46,000",availability immediately,3
+3,Independent House,Ragannaguda,"15,000",1500,Unfurnished,"75,000",availability immediately,2
+4,Independent House,Khairatabad Road,"90,000",7000,Semi-Furnished,2 L,availability immediately,3
+2,Apartment,Kompally,"15,500",930,Semi-Furnished,"40,000",availability immediately,2
+1,Independent House,Vittalwadi,"8,000",250,Unfurnished,"16,000",availability immediately,1
+2,Apartment,Cheeriyal,"11,000",1000,Semi-Furnished,"22,000",availability immediately,2
+3,Apartment,Kondapur,"40,000",1555,Semi-Furnished,"80,000",availability immediately,3
+4,Independent House,Alluri Seetaramaraju Nagar,"65,000",3000,Furnished,1.8 L,availability immediately,4
+3,Apartment,Jeedimetla,"45,000",2600,Furnished,1.5 L,availability immediately,3
+3,Independent House,Ragannaguda,"15,000",1300,Unfurnished,"75,000",availability immediately,1
+2,Apartment,Chinthal,"16,500",1090,Semi-Furnished,"33,000",availability immediately,2
+3,Apartment,Hitech City,"75,000",2595,Semi-Furnished,2.25 L,availability immediately,3
+2,Independent House,Nagaram,"8,000",1080,Unfurnished,"16,000",availability immediately,2
+,,RBI Colony,"5,000",500,Furnished,"10,000",availability immediately,1
+1,Apartment,Santoshnagar,"8,000",620,Unfurnished,"16,000",availability immediately,1
+2,Independent House,Gayathri Nagar Colony,"10,500",1000,Unfurnished,"11,000",availability immediately,2
+3,Apartment,Kokapet,"60,000",2400,Furnished,1.2 L,availability immediately,3

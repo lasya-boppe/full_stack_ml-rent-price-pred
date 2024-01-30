@@ -1,0 +1,43 @@
+BHK,Type,Location,Price,Sqft,Status,Deposit,Availability,Bathrooms,Facing
+4,Villa,Kompally,"68,000",4500,Semi-Furnished,No Deposit,NA,4,NA
+5,Villa,Kompally,"90,000",5000,Furnished,No Deposit,NA,5,East facing
+1,Apartment,Kompally,"9,350",500,Unfurnished,No Deposit,NA,1,NA
+4,Apartment,Kompally,"75,000",1700,Semi-Furnished,No Deposit,NA,3,NA
+,,Kompally,"9,350",500,Unfurnished,No Deposit,NA,1,NA
+,,Kompally,"9,350",500,Unfurnished,No Deposit,NA,1,NA
+4,Villa,Kompally,1.6,5000,Semi-Furnished,No Deposit,NA,4,NA
+3,Apartment,Kompally,"23,000",1505,Semi-Furnished,No Deposit,NA,3,NA
+2,Apartment,Kompally,"16,000",1175,Semi-Furnished,"48,000",availability immediately,2,NA
+3,Apartment,Kompally,"27,500",1400,Furnished,No Deposit,NA,2,East facing
+6,Villa,Kompally,"40,000",2400,Furnished,No Deposit,NA,4,SouthEast facing
+4,Villa,Kompally,"42,000",2750,Semi-Furnished,"84,000",availability immediately,5,NA
+3,Apartment,Kompally,"22,000",1836,Semi-Furnished,1 L,availability immediately,3,NA
+3,Apartment,Kompally,"15,000",1420,Semi-Furnished,"28,000",availability immediately,3,NA
+4,Villa,Kompally,"50,000",3000,Semi-Furnished,1.5 L,availability immediately,3,NA
+3,Villa,Kompally,"30,000",1584,Semi-Furnished,"60,000",availability immediately,3,NA
+2,Apartment,Kompally,"20,400",1200,Unfurnished,"42,000",availability immediately,NA,NA
+3,Apartment,Kompally,"27,500",1400,Furnished,No Deposit,NA,2,East facing
+4,Apartment,Kompally,"13,000",1217,Unfurnished,No Deposit,NA,2,North facing
+2,Apartment,Kompally,"16,500",1457,Semi-Furnished,No Deposit,NA,2,NorthEast facing
+3,Apartment,Kompally,"20,000",1435,Unfurnished,No Deposit,NA,3,NA
+3,Apartment,Kompally,"25,000",1725,Semi-Furnished,"50,000",availability immediately,3,NA
+2,Apartment,Kompally,"15,500",930,Semi-Furnished,"40,000",availability immediately,2,NA
+3,Villa,Kompally,"40,000",3000,Furnished,No Deposit,NA,4,NA
+3,Apartment,Kompally,"22,000",1725,Furnished,No Deposit,NA,3,NA
+2,Apartment,Kompally,"21,000",1100,Furnished,No Deposit,NA,2,NA
+3,Apartment,Kompally,"20,000",1395,Semi-Furnished,"50,000",NA,3,5th of 5floor
+2,Independent Floor,Kompally,"9,000",850,Semi-Furnished,No Deposit,NA,1,South facing
+1,Apartment,Kompally,"6,000",150,Unfurnished,No Deposit,NA,1,NA
+3,Apartment,Kompally,"27,500",1400,Furnished,No Deposit,NA,2,East facing
+1,Independent House,Kompally,"9,000",650,Semi-Furnished,No Deposit,NA,1,NA
+3,Villa,Kompally,"40,000",3000,Furnished,No Deposit,NA,4,NA
+2,Independent House,Kompally,"13,000",850,Semi-Furnished,No Deposit,NA,2,NA
+3,Apartment,Kompally,"27,500",1400,Furnished,No Deposit,NA,2,East facing
+3,Villa,Kompally,"40,000",3000,Furnished,No Deposit,NA,5,NA
+3,Villa,Kompally,"40,000",3000,Furnished,No Deposit,NA,5,NA
+3,Apartment,Kompally,"27,500",1400,Furnished,No Deposit,NA,2,East facing
+3,Apartment,Kompally,"27,500",1400,Furnished,No Deposit,NA,2,East facing
+3,Apartment,Kompally,"27,500",1400,Furnished,No Deposit,NA,2,East facing
+3,Villa,Kompally,"40,000",3000,Furnished,No Deposit,NA,4,NA
+5,Villa,Kompally,"45,000",2700,Furnished,No Deposit,NA,NA,NA
+5,Villa,Kompally,"45,000",2700,Furnished,No Deposit,NA,NA,NA
